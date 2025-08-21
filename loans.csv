@@ -1,0 +1,1001 @@
+loan_amnt,term,int_rate,grade,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,purpose,addr_state,dti
+28654, 36 months,18.9%,B,1 year,RENT,92874,Source Verified,Nov-2016,Fully Paid,debt_consolidation,IL,26.426463105719414
+20795, 60 months,11.8%,A,9 years,MORTGAGE,107733,Not Verified,Nov-2016,Late (31-120 days),vacation,CA,7.0852631434575875
+5860, 60 months,19.5%,A,8 years,OWN,59511,Source Verified,Jul-2018,Fully Paid,credit_card,NC,34.16499871222071
+10390, 36 months,6.3%,B,8 years,MORTGAGE,110960,Source Verified,Dec-2018,Fully Paid,medical,NY,5.428309450574971
+34802, 36 months,11.3%,B,7 years,OWN,78821,Verified,Dec-2015,Current,small_business,NY,23.039504730084534
+26575, 36 months,15.8%,E,9 years,OWN,95776,Verified,Jan-2017,Fully Paid,small_business,TX,21.87897787602165
+16964, 60 months,20.8%,C,9 years,MORTGAGE,148128,Verified,Nov-2018,Fully Paid,home_improvement,FL,9.041471926091774
+16284, 36 months,11.4%,C,< 1 year,RENT,100167,Source Verified,Oct-2018,Fully Paid,medical,TX,9.527479481405894
+27118, 60 months,17.5%,A,1 year,RENT,105135,Not Verified,Mar-2018,Fully Paid,debt_consolidation,NC,28.780324633838802
+11265, 36 months,22.7%,E,5 years,MORTGAGE,74462,Source Verified,Jul-2018,Fully Paid,major_purchase,MI,31.626873752380494
+21850, 36 months,17.3%,D,9 years,RENT,91382,Verified,Feb-2018,Late (31-120 days),debt_consolidation,OH,13.490508976513087
+34910, 36 months,9.7%,A,4 years,RENT,120194,Verified,Jun-2017,Fully Paid,medical,GA,18.138918918877053
+9426, 36 months,5.5%,D,8 years,RENT,133381,Not Verified,May-2015,Fully Paid,vacation,NY,15.649851231150606
+26962, 60 months,22.4%,C,4 years,RENT,62574,Verified,May-2017,Charged Off,car,PA,7.176410389599557
+19423, 60 months,5.4%,A,1 year,OWN,132072,Verified,May-2017,Fully Paid,small_business,MI,25.196127380474284
+33020, 36 months,22.5%,C,9 years,RENT,71910,Verified,Nov-2015,Fully Paid,home_improvement,PA,29.755788044170703
+16363, 36 months,15.6%,C,3 years,MORTGAGE,103531,Not Verified,Feb-2018,Current,credit_card,CA,14.146380721736213
+32495, 60 months,23.8%,A,8 years,MORTGAGE,55186,Source Verified,Jan-2017,Current,debt_consolidation,PA,34.70527380892155
+21023, 60 months,21.0%,F,< 1 year,MORTGAGE,124781,Verified,May-2017,Charged Off,small_business,NY,7.275546718470648
+13322, 60 months,25.0%,E,10+ years,MORTGAGE,52813,Not Verified,Dec-2018,Charged Off,major_purchase,NY,24.85372141443563
+6685, 60 months,12.0%,D,< 1 year,MORTGAGE,108812,Verified,Nov-2017,Fully Paid,home_improvement,NY,18.44684043578267
+5769, 36 months,20.3%,C,6 years,RENT,115525,Not Verified,Sep-2016,Late (31-120 days),credit_card,MI,18.398057033199677
+31967, 60 months,13.0%,B,10+ years,MORTGAGE,108282,Verified,Aug-2015,Fully Paid,debt_consolidation,MI,18.729368481006208
+28333, 36 months,14.6%,D,2 years,MORTGAGE,139779,Not Verified,Nov-2017,Current,major_purchase,GA,12.760453214042853
+7433, 60 months,17.6%,C,9 years,MORTGAGE,48557,Verified,Feb-2017,Fully Paid,credit_card,IL,26.46688481996697
+10311, 60 months,22.5%,A,1 year,OWN,58060,Source Verified,May-2015,Late (31-120 days),car,FL,26.647295782550806
+10051, 60 months,24.7%,C,8 years,RENT,88866,Verified,Oct-2015,Current,small_business,NC,13.47191330317481
+11420, 60 months,20.4%,E,2 years,OWN,102104,Not Verified,Apr-2015,Current,car,NC,30.059193825753503
+22568, 60 months,13.4%,C,1 year,MORTGAGE,130905,Verified,May-2015,Fully Paid,small_business,CA,14.5053483095099
+25939, 36 months,13.4%,A,7 years,RENT,114577,Source Verified,Apr-2017,Fully Paid,major_purchase,TX,26.752793719596266
+24769, 36 months,19.8%,D,9 years,MORTGAGE,36080,Verified,Jun-2018,Charged Off,vacation,GA,8.629993025361992
+33693, 60 months,9.8%,B,5 years,RENT,43854,Not Verified,Feb-2015,Current,car,IL,10.06104928411237
+11396, 60 months,7.2%,B,5 years,RENT,97695,Not Verified,Feb-2015,Fully Paid,small_business,OH,14.473869335247535
+34419, 36 months,12.1%,A,9 years,RENT,57025,Source Verified,Oct-2016,Late (16-30 days),home_improvement,CA,22.816213030035843
+32480, 60 months,10.7%,B,10+ years,RENT,82982,Not Verified,Sep-2015,Current,major_purchase,MI,24.365344564360978
+13666, 60 months,10.9%,D,6 years,OWN,71081,Verified,Mar-2015,Fully Paid,small_business,IL,16.890685159024244
+30658, 36 months,9.7%,C,6 years,RENT,34368,Verified,Jan-2017,Current,debt_consolidation,NY,7.335174593315421
+23942, 60 months,5.8%,B,10+ years,MORTGAGE,129621,Verified,May-2015,Fully Paid,small_business,MI,16.20903956278173
+29233, 60 months,5.4%,E,5 years,OWN,149181,Not Verified,Mar-2018,Fully Paid,car,TX,25.663025478774546
+23431, 36 months,24.8%,E,3 years,RENT,57094,Verified,Sep-2015,Fully Paid,home_improvement,TX,25.12986383390948
+7747, 36 months,13.6%,E,10+ years,MORTGAGE,76040,Verified,Mar-2017,Fully Paid,credit_card,NC,9.805892396163284
+30551, 36 months,12.7%,B,8 years,MORTGAGE,96766,Verified,Dec-2016,Current,vacation,FL,5.233519108069014
+31382, 60 months,18.6%,C,5 years,MORTGAGE,113053,Source Verified,May-2016,Fully Paid,credit_card,FL,27.589448518883504
+5189, 36 months,9.4%,G,3 years,RENT,53991,Not Verified,Jun-2017,Charged Off,small_business,OH,8.191044991557312
+24118, 36 months,24.0%,D,2 years,MORTGAGE,31301,Not Verified,Sep-2017,Charged Off,credit_card,MI,7.470474318928565
+8005, 36 months,20.7%,A,3 years,MORTGAGE,58610,Not Verified,Jun-2017,Current,small_business,MI,5.081036505024904
+26042, 36 months,6.8%,A,2 years,RENT,111463,Source Verified,Dec-2015,Fully Paid,home_improvement,TX,17.978039778707817
+6899, 36 months,13.4%,C,1 year,RENT,64678,Not Verified,Apr-2017,Current,credit_card,NY,20.097917027024433
+29118, 36 months,22.6%,F,4 years,OWN,54466,Source Verified,May-2018,Fully Paid,car,NY,24.12992138445772
+6267, 60 months,23.9%,C,1 year,RENT,110440,Source Verified,Aug-2016,Fully Paid,car,PA,13.881915221377575
+22912, 60 months,14.3%,C,5 years,MORTGAGE,70875,Not Verified,Jan-2018,Fully Paid,debt_consolidation,NY,26.312741491603397
+16394, 36 months,17.3%,A,2 years,RENT,56081,Verified,Aug-2016,Fully Paid,small_business,IL,10.079955722208247
+8556, 36 months,8.3%,D,5 years,MORTGAGE,54354,Verified,Apr-2018,Current,credit_card,FL,29.95970159331042
+8890, 36 months,24.8%,E,10+ years,OWN,123297,Not Verified,Feb-2018,Fully Paid,car,NY,22.15544986671337
+13838, 60 months,9.6%,B,9 years,RENT,48300,Not Verified,Dec-2015,Current,medical,GA,22.51669470116145
+32464, 60 months,23.9%,D,8 years,RENT,94384,Source Verified,Oct-2017,Fully Paid,home_improvement,MI,11.293262413373244
+19502, 60 months,18.0%,F,< 1 year,OWN,125027,Not Verified,Sep-2016,Fully Paid,vacation,NY,7.223262479011647
+26777, 60 months,17.2%,B,5 years,MORTGAGE,90892,Source Verified,Aug-2018,Late (16-30 days),home_improvement,PA,18.941744092420144
+15627, 60 months,15.3%,C,8 years,MORTGAGE,65525,Not Verified,Dec-2015,Current,medical,OH,23.46835855767077
+13792, 60 months,9.6%,B,10+ years,RENT,56532,Verified,Aug-2016,Fully Paid,medical,OH,7.851393759850568
+15555, 60 months,8.5%,D,3 years,RENT,36464,Verified,Jul-2018,Fully Paid,debt_consolidation,TX,33.516034235845
+15253, 60 months,9.4%,C,10+ years,RENT,46562,Not Verified,Feb-2015,Fully Paid,home_improvement,NY,34.412430806984204
+13433, 60 months,8.7%,C,1 year,MORTGAGE,137392,Source Verified,Dec-2017,Fully Paid,home_improvement,MI,21.36370086177476
+15233, 36 months,20.6%,D,3 years,RENT,85514,Verified,Feb-2017,Current,credit_card,MI,33.50207465820219
+16016, 36 months,12.0%,B,< 1 year,OWN,143428,Source Verified,Apr-2015,Current,small_business,FL,10.383357127425592
+28897, 36 months,6.2%,F,2 years,MORTGAGE,142564,Not Verified,May-2016,Fully Paid,major_purchase,OH,5.762620555385746
+7612, 36 months,24.4%,C,9 years,MORTGAGE,138047,Not Verified,Sep-2016,Late (31-120 days),vacation,TX,6.182286058711698
+28425, 60 months,22.7%,A,8 years,RENT,104219,Verified,Aug-2016,Fully Paid,home_improvement,NY,22.625374382803372
+30939, 60 months,23.6%,D,9 years,RENT,62634,Not Verified,Jan-2016,Fully Paid,vacation,OH,6.849256503104706
+27619, 36 months,24.9%,D,4 years,MORTGAGE,30060,Verified,Jul-2018,Fully Paid,vacation,OH,33.75636820472261
+26870, 60 months,8.5%,B,10+ years,MORTGAGE,39269,Source Verified,Oct-2015,Charged Off,vacation,MI,9.257996322781956
+28483, 36 months,12.9%,E,5 years,RENT,93143,Verified,Dec-2017,Fully Paid,home_improvement,NY,14.141684181589358
+31054, 60 months,20.2%,F,2 years,MORTGAGE,53065,Verified,Mar-2018,Fully Paid,major_purchase,CA,29.675534059950454
+20787, 36 months,18.9%,B,4 years,MORTGAGE,32895,Source Verified,Oct-2016,Fully Paid,home_improvement,NY,11.562209693122792
+32132, 60 months,8.1%,G,10+ years,RENT,110859,Verified,Jul-2015,Fully Paid,credit_card,IL,12.289053753637118
+22159, 60 months,21.3%,A,7 years,RENT,42352,Verified,Jan-2015,Current,credit_card,OH,24.269268673730547
+17206, 36 months,9.5%,B,5 years,OWN,140179,Not Verified,Sep-2015,Fully Paid,major_purchase,FL,13.282582654677869
+13226, 60 months,9.5%,A,3 years,MORTGAGE,79737,Source Verified,Jan-2017,Fully Paid,car,CA,11.523429020231008
+19541, 36 months,15.7%,E,1 year,RENT,134127,Verified,Sep-2017,Current,home_improvement,PA,12.625331429169725
+8152, 36 months,16.9%,D,8 years,MORTGAGE,126426,Source Verified,Jan-2016,Late (31-120 days),car,TX,19.719424980221802
+31531, 36 months,16.6%,A,< 1 year,MORTGAGE,62016,Source Verified,Apr-2016,Late (31-120 days),vacation,NY,33.982996181944465
+6585, 36 months,6.8%,B,< 1 year,RENT,91304,Verified,Mar-2015,Fully Paid,home_improvement,FL,29.96713824683685
+8943, 60 months,22.5%,C,3 years,MORTGAGE,41962,Not Verified,Jul-2018,Fully Paid,small_business,PA,13.538307936805314
+28939, 60 months,10.3%,A,6 years,MORTGAGE,63302,Source Verified,Feb-2017,Fully Paid,home_improvement,PA,15.901196254942931
+24457, 60 months,7.6%,E,< 1 year,RENT,115382,Verified,Jan-2017,Fully Paid,credit_card,OH,18.935367515122323
+6021, 36 months,22.8%,E,8 years,RENT,34011,Source Verified,Aug-2016,Late (31-120 days),debt_consolidation,IL,34.36788941050971
+16653, 60 months,24.1%,C,3 years,OWN,49782,Not Verified,Sep-2015,Fully Paid,medical,OH,10.171714050071472
+15805, 36 months,22.2%,F,2 years,MORTGAGE,97691,Not Verified,Jun-2015,Fully Paid,debt_consolidation,TX,15.724493104756485
+18417, 60 months,21.2%,B,< 1 year,MORTGAGE,69725,Not Verified,Mar-2017,Fully Paid,debt_consolidation,CA,26.88278281948145
+25227, 60 months,18.1%,G,9 years,OWN,39196,Verified,Jun-2017,Fully Paid,debt_consolidation,MI,33.9183120280683
+12989, 60 months,16.0%,D,3 years,MORTGAGE,73459,Verified,Aug-2015,Current,medical,GA,9.67025638292713
+14692, 36 months,6.7%,C,8 years,OWN,117245,Not Verified,Feb-2018,Fully Paid,car,CA,11.821398625830373
+17990, 60 months,13.2%,A,9 years,OWN,108863,Verified,Sep-2018,Fully Paid,medical,TX,11.770840231712906
+11873, 60 months,12.5%,E,5 years,RENT,149391,Not Verified,Oct-2016,Fully Paid,car,MI,5.627960884762206
+10675, 36 months,10.2%,B,5 years,RENT,131010,Verified,Aug-2015,Fully Paid,medical,PA,23.123468749428486
+5161, 60 months,19.5%,A,< 1 year,RENT,62769,Not Verified,Nov-2017,Fully Paid,medical,CA,25.121092224376813
+9297, 36 months,14.9%,A,9 years,OWN,137529,Source Verified,Oct-2015,Charged Off,home_improvement,MI,23.0757767037576
+31557, 60 months,6.6%,C,1 year,RENT,54700,Not Verified,Jan-2018,Fully Paid,car,NY,7.1396896823844305
+5995, 36 months,9.4%,C,10+ years,MORTGAGE,145792,Not Verified,Jul-2018,Current,home_improvement,OH,7.076903772368951
+34487, 36 months,18.7%,D,5 years,RENT,110356,Verified,Mar-2016,Late (31-120 days),small_business,GA,11.31159663482372
+16534, 60 months,6.5%,E,1 year,RENT,106427,Verified,Aug-2016,Late (31-120 days),home_improvement,FL,13.708835470967438
+34127, 36 months,22.0%,A,2 years,OWN,130165,Verified,Dec-2017,Late (31-120 days),debt_consolidation,NY,28.59630967730142
+12629, 36 months,14.9%,D,3 years,MORTGAGE,35269,Verified,Jan-2015,Fully Paid,major_purchase,CA,9.781707972467633
+33374, 36 months,14.6%,A,10+ years,RENT,73880,Verified,Feb-2017,Fully Paid,major_purchase,NC,6.3227664919259645
+30851, 36 months,16.8%,E,4 years,RENT,144003,Verified,Apr-2018,Fully Paid,credit_card,MI,16.819625231391655
+6016, 36 months,21.5%,E,8 years,MORTGAGE,38320,Source Verified,Jan-2018,Current,credit_card,PA,17.49176510425761
+29253, 36 months,12.0%,C,3 years,RENT,79589,Not Verified,Sep-2016,Late (16-30 days),vacation,PA,18.52722014566863
+27823, 60 months,18.6%,D,10+ years,RENT,149534,Not Verified,Aug-2017,Current,home_improvement,NC,29.807106320809055
+29276, 36 months,16.3%,B,8 years,MORTGAGE,106276,Not Verified,Apr-2015,Fully Paid,medical,CA,7.940162446128252
+28247, 36 months,10.3%,C,10+ years,RENT,65897,Source Verified,Feb-2015,Late (31-120 days),medical,PA,26.118262472658863
+29300, 60 months,22.6%,E,9 years,OWN,88565,Not Verified,Dec-2015,Fully Paid,major_purchase,IL,15.138367131358724
+13529, 60 months,20.9%,C,2 years,RENT,60930,Source Verified,Jun-2017,Fully Paid,debt_consolidation,PA,14.299404093064098
+22262, 60 months,18.2%,B,7 years,RENT,87233,Source Verified,Apr-2016,Fully Paid,car,GA,32.9762937825794
+14268, 60 months,22.0%,C,< 1 year,RENT,112821,Source Verified,Jul-2015,Fully Paid,debt_consolidation,IL,12.454055732502262
+26271, 60 months,22.3%,E,10+ years,RENT,44380,Not Verified,Jul-2015,Fully Paid,vacation,TX,24.27595506018099
+17185, 60 months,19.2%,B,8 years,RENT,106896,Source Verified,May-2016,Fully Paid,debt_consolidation,TX,13.253832721282762
+26243, 60 months,21.7%,A,8 years,RENT,100934,Not Verified,Feb-2017,Fully Paid,home_improvement,MI,20.214316479211554
+11331, 36 months,18.9%,D,9 years,MORTGAGE,85830,Not Verified,Oct-2015,Charged Off,home_improvement,IL,28.588786777888338
+13571, 36 months,18.6%,E,1 year,RENT,35529,Verified,Oct-2016,Current,small_business,NY,31.451675705487816
+30068, 60 months,17.4%,A,3 years,OWN,124598,Verified,Jul-2016,Charged Off,vacation,MI,30.160917208851508
+12208, 36 months,20.1%,B,7 years,MORTGAGE,132222,Source Verified,Oct-2017,Fully Paid,debt_consolidation,NY,22.465422084339195
+10276, 36 months,8.2%,A,6 years,MORTGAGE,112987,Source Verified,Aug-2017,Current,medical,GA,12.464489460146664
+23446, 36 months,22.6%,B,< 1 year,RENT,79178,Not Verified,Oct-2018,Late (31-120 days),medical,OH,24.837001497855972
+33460, 60 months,22.4%,C,4 years,MORTGAGE,36937,Source Verified,Jan-2016,Fully Paid,vacation,CA,26.29715137338824
+21448, 60 months,5.6%,D,6 years,RENT,69886,Source Verified,Aug-2018,Fully Paid,debt_consolidation,IL,5.3207597034050425
+21216, 36 months,21.5%,D,3 years,RENT,79699,Not Verified,Oct-2018,Fully Paid,home_improvement,NC,18.17631532795624
+13006, 60 months,7.6%,C,< 1 year,MORTGAGE,106396,Source Verified,Aug-2015,Fully Paid,home_improvement,FL,30.297861284652928
+7568, 36 months,11.7%,B,8 years,OWN,120678,Source Verified,Jun-2017,Charged Off,small_business,CA,19.68762788729142
+26847, 36 months,19.9%,E,4 years,OWN,55279,Not Verified,Sep-2017,Current,small_business,GA,14.341263264899634
+34824, 36 months,8.2%,C,10+ years,RENT,68106,Not Verified,Apr-2016,Fully Paid,credit_card,IL,31.15393313073988
+7027, 36 months,21.4%,G,1 year,OWN,140776,Verified,Feb-2015,Current,vacation,TX,9.67642092589417
+7695, 60 months,21.6%,C,7 years,RENT,131444,Not Verified,Oct-2015,Current,major_purchase,CA,11.193356972486011
+31071, 60 months,15.1%,A,10+ years,MORTGAGE,136300,Verified,Dec-2017,Late (31-120 days),debt_consolidation,NY,25.621171008084
+20422, 60 months,5.1%,D,1 year,RENT,143793,Source Verified,Aug-2018,Fully Paid,vacation,NC,15.57307824579725
+10258, 36 months,10.7%,B,2 years,MORTGAGE,146278,Not Verified,Jun-2016,Late (31-120 days),medical,CA,26.39050507201337
+27002, 60 months,17.3%,D,9 years,OWN,109737,Not Verified,Jun-2017,Fully Paid,debt_consolidation,FL,9.731108637784757
+11736, 36 months,24.6%,A,< 1 year,MORTGAGE,70544,Not Verified,May-2018,Fully Paid,small_business,GA,12.568072688025378
+5391, 60 months,17.6%,A,10+ years,MORTGAGE,133247,Source Verified,Mar-2017,Fully Paid,small_business,GA,9.699421350909006
+18986, 36 months,10.2%,E,1 year,MORTGAGE,141190,Verified,Nov-2017,Fully Paid,credit_card,MI,33.58730940690529
+34090, 36 months,17.7%,B,6 years,RENT,38997,Source Verified,Jan-2018,Current,major_purchase,GA,17.162118825527724
+17666, 36 months,15.8%,E,9 years,RENT,136102,Source Verified,Jul-2018,Fully Paid,credit_card,MI,15.116597297306779
+10892, 60 months,20.6%,B,1 year,RENT,115711,Not Verified,Jul-2017,Fully Paid,medical,GA,5.426064685122941
+8561, 60 months,7.1%,C,5 years,MORTGAGE,146045,Verified,Dec-2017,Fully Paid,major_purchase,FL,9.602527382326622
+31854, 60 months,20.2%,D,2 years,MORTGAGE,70860,Source Verified,Nov-2015,Charged Off,car,GA,17.634075687274986
+11184, 60 months,15.8%,C,3 years,OWN,33225,Not Verified,May-2017,Fully Paid,debt_consolidation,NC,7.055083777156822
+24483, 36 months,24.3%,B,10+ years,RENT,140114,Source Verified,Feb-2017,Current,credit_card,OH,20.322179885186507
+27662, 60 months,11.8%,B,7 years,RENT,89470,Source Verified,Oct-2018,Fully Paid,small_business,TX,18.650463153933433
+13392, 60 months,17.7%,A,2 years,MORTGAGE,143218,Not Verified,Feb-2018,Fully Paid,credit_card,NC,28.015044210330558
+18067, 36 months,23.6%,B,9 years,OWN,130764,Not Verified,Apr-2018,Fully Paid,car,GA,24.7940810420095
+20265, 36 months,7.1%,D,5 years,MORTGAGE,137041,Verified,Jun-2016,Fully Paid,credit_card,IL,18.378419159617216
+24488, 36 months,23.7%,F,< 1 year,MORTGAGE,142224,Source Verified,Jun-2017,Fully Paid,debt_consolidation,NY,11.739821003152144
+28599, 60 months,18.8%,E,6 years,RENT,93656,Not Verified,Nov-2016,Fully Paid,car,OH,26.80590698053419
+34174, 36 months,6.4%,D,7 years,OWN,81880,Not Verified,Mar-2017,Late (16-30 days),vacation,TX,26.235863103626127
+7454, 36 months,11.0%,D,10+ years,OWN,91078,Verified,Dec-2018,Charged Off,vacation,NY,9.598884815461624
+16837, 36 months,19.2%,D,7 years,RENT,118646,Verified,Feb-2017,Fully Paid,vacation,NC,32.44255494276209
+19039, 60 months,6.3%,B,2 years,RENT,106290,Not Verified,Aug-2015,Fully Paid,small_business,FL,6.932153480451295
+30380, 36 months,16.6%,F,9 years,RENT,86633,Verified,Nov-2015,Current,small_business,FL,6.651131266781486
+24115, 60 months,11.9%,D,< 1 year,MORTGAGE,56655,Not Verified,Feb-2017,Fully Paid,vacation,NY,10.62051252987281
+15965, 60 months,17.4%,C,8 years,OWN,73601,Source Verified,Feb-2016,Fully Paid,vacation,IL,32.28382394146314
+29538, 36 months,5.9%,A,5 years,OWN,33114,Verified,Jun-2016,Current,vacation,NY,20.599943721107653
+14762, 36 months,22.4%,B,10+ years,MORTGAGE,56502,Source Verified,Mar-2015,Charged Off,home_improvement,NC,28.638227620187003
+10056, 60 months,24.5%,C,8 years,MORTGAGE,79768,Source Verified,Mar-2017,Fully Paid,vacation,NY,11.83529564229502
+19948, 36 months,24.4%,E,6 years,RENT,78128,Source Verified,Dec-2018,Fully Paid,car,TX,19.706659239612225
+13110, 36 months,20.0%,C,< 1 year,OWN,50028,Not Verified,Mar-2015,Fully Paid,home_improvement,IL,15.748683908716467
+18773, 60 months,7.6%,B,< 1 year,OWN,85565,Source Verified,Jul-2016,Charged Off,home_improvement,PA,29.83485821198578
+32266, 60 months,20.2%,G,5 years,MORTGAGE,113123,Source Verified,Aug-2018,Fully Paid,debt_consolidation,CA,5.678133180776799
+25224, 36 months,5.5%,A,4 years,MORTGAGE,138255,Source Verified,Nov-2017,Fully Paid,credit_card,PA,12.31528189898316
+22412, 60 months,5.4%,B,8 years,MORTGAGE,65333,Not Verified,Sep-2015,Fully Paid,small_business,MI,9.577226729071363
+28769, 36 months,11.5%,A,1 year,RENT,33174,Source Verified,Oct-2017,Fully Paid,small_business,NY,30.775671161647082
+5502, 36 months,14.8%,D,7 years,MORTGAGE,147769,Source Verified,Mar-2018,Late (31-120 days),credit_card,FL,19.02631549081297
+11910, 36 months,20.4%,F,10+ years,RENT,65398,Verified,Jun-2015,Current,small_business,PA,17.126601316796485
+17685, 60 months,18.7%,B,4 years,RENT,65929,Not Verified,Dec-2018,Current,credit_card,GA,18.484482863032397
+30446, 36 months,13.9%,E,1 year,RENT,34321,Source Verified,Dec-2018,Fully Paid,car,NC,34.157736521070056
+28322, 36 months,10.5%,B,9 years,RENT,125971,Verified,Feb-2017,Fully Paid,debt_consolidation,PA,30.508021830077723
+25872, 36 months,24.9%,F,10+ years,RENT,141508,Not Verified,May-2018,Fully Paid,vacation,OH,26.191063155509227
+5206, 60 months,13.5%,D,10+ years,MORTGAGE,85421,Not Verified,Dec-2016,Fully Paid,debt_consolidation,IL,13.714368776697638
+26518, 60 months,14.0%,E,5 years,MORTGAGE,102635,Not Verified,Aug-2015,Late (16-30 days),medical,NC,9.955189985553433
+27361, 60 months,8.3%,A,9 years,RENT,53760,Not Verified,Sep-2017,Fully Paid,debt_consolidation,FL,32.6430088707336
+29105, 60 months,20.9%,F,7 years,RENT,41360,Not Verified,Mar-2015,Fully Paid,credit_card,MI,17.692265683894487
+28419, 60 months,18.9%,D,3 years,RENT,40313,Not Verified,May-2016,Fully Paid,medical,PA,13.362673984058874
+22868, 36 months,9.4%,B,1 year,RENT,141806,Source Verified,Feb-2015,Charged Off,credit_card,IL,19.127624792529062
+29242, 60 months,6.6%,E,10+ years,RENT,115998,Source Verified,Aug-2017,Fully Paid,vacation,CA,32.535422684610566
+20934, 60 months,18.6%,B,4 years,MORTGAGE,35801,Source Verified,Jan-2018,Fully Paid,major_purchase,IL,16.612019401738795
+22247, 60 months,18.1%,E,1 year,RENT,44130,Source Verified,Jan-2017,Fully Paid,medical,IL,21.879229917442984
+24174, 36 months,10.5%,A,1 year,OWN,44271,Verified,Feb-2016,Current,vacation,NC,29.088989033257004
+28792, 60 months,24.0%,D,5 years,RENT,46075,Source Verified,Jun-2016,Fully Paid,vacation,CA,17.813975931451736
+13755, 60 months,8.0%,C,10+ years,MORTGAGE,132455,Not Verified,Mar-2018,Late (31-120 days),small_business,IL,12.00625405779105
+26500, 36 months,13.6%,A,9 years,MORTGAGE,137215,Source Verified,Apr-2018,Current,small_business,OH,34.835772451491
+17383, 60 months,23.9%,B,8 years,MORTGAGE,48984,Source Verified,Feb-2016,Fully Paid,major_purchase,PA,33.69712572356479
+27403, 36 months,13.4%,A,3 years,MORTGAGE,118095,Not Verified,Jul-2015,Current,major_purchase,PA,30.30437507376542
+23141, 36 months,17.8%,C,5 years,RENT,90942,Source Verified,Jan-2018,Fully Paid,debt_consolidation,OH,25.651216381577676
+19820, 36 months,13.0%,B,6 years,RENT,42861,Source Verified,Jul-2016,Late (16-30 days),vacation,PA,13.845968842090908
+12574, 36 months,10.5%,C,10+ years,MORTGAGE,128970,Source Verified,Dec-2016,Fully Paid,major_purchase,IL,32.40238814492096
+11374, 36 months,24.7%,B,5 years,RENT,112203,Verified,Dec-2016,Fully Paid,credit_card,MI,13.266700103636863
+28276, 60 months,13.2%,B,7 years,OWN,101376,Source Verified,Jan-2018,Fully Paid,vacation,IL,29.024284840304976
+6678, 36 months,22.9%,D,3 years,RENT,91247,Not Verified,Jun-2017,Fully Paid,home_improvement,NC,32.547745038239185
+24626, 36 months,9.6%,A,< 1 year,RENT,99101,Not Verified,Aug-2016,Late (16-30 days),credit_card,GA,23.090115212897345
+26020, 60 months,9.3%,F,6 years,OWN,138730,Source Verified,Nov-2016,Fully Paid,medical,MI,29.091686536735367
+6059, 36 months,5.6%,E,2 years,OWN,50977,Source Verified,Aug-2015,Charged Off,major_purchase,FL,28.7508529760524
+28052, 60 months,18.0%,D,5 years,MORTGAGE,80617,Source Verified,Aug-2018,Fully Paid,small_business,FL,10.794732533629396
+34855, 60 months,12.4%,C,1 year,RENT,87473,Not Verified,Jun-2016,Late (31-120 days),credit_card,MI,25.03773420788254
+21198, 60 months,22.3%,E,8 years,OWN,116654,Not Verified,Aug-2017,Fully Paid,small_business,IL,7.804038107133307
+14914, 36 months,14.5%,A,< 1 year,RENT,118177,Verified,Nov-2016,Fully Paid,credit_card,NY,20.23550429412444
+32890, 36 months,24.4%,A,5 years,RENT,102902,Verified,Jun-2018,Fully Paid,small_business,GA,9.867066444217325
+24541, 36 months,8.7%,B,5 years,OWN,122172,Verified,Jan-2016,Current,car,OH,17.49048496389295
+27299, 60 months,22.4%,D,4 years,RENT,45630,Not Verified,Dec-2018,Fully Paid,credit_card,IL,29.98946224095313
+15817, 36 months,20.5%,A,4 years,RENT,50056,Verified,Sep-2017,Fully Paid,medical,MI,34.615035188906134
+15921, 36 months,20.4%,C,< 1 year,RENT,37382,Source Verified,Dec-2018,Fully Paid,small_business,NY,14.538794949788532
+14789, 36 months,21.9%,G,9 years,RENT,85739,Source Verified,Dec-2017,Current,home_improvement,IL,20.958670963495297
+21312, 60 months,20.2%,E,4 years,RENT,111685,Not Verified,Jul-2015,Fully Paid,medical,NY,20.338940731114654
+16252, 60 months,17.5%,C,1 year,RENT,78639,Verified,Feb-2017,Fully Paid,debt_consolidation,MI,33.632045294931984
+7693, 36 months,7.6%,A,6 years,RENT,89838,Source Verified,Jun-2016,Fully Paid,credit_card,IL,19.357511972983204
+34467, 36 months,5.7%,E,2 years,RENT,76041,Not Verified,Mar-2018,Current,home_improvement,CA,25.973186161990935
+34723, 36 months,23.4%,C,3 years,MORTGAGE,30992,Verified,Oct-2018,Late (31-120 days),debt_consolidation,PA,32.653676993255786
+18931, 36 months,17.3%,A,2 years,RENT,102394,Source Verified,Nov-2016,Fully Paid,credit_card,MI,16.2013567861052
+8627, 60 months,20.9%,A,2 years,RENT,97657,Verified,Feb-2018,Fully Paid,home_improvement,FL,32.06366714736163
+30939, 60 months,14.6%,F,3 years,RENT,57160,Not Verified,Aug-2018,Fully Paid,home_improvement,FL,32.523686656730405
+21157, 60 months,7.3%,D,4 years,MORTGAGE,75156,Verified,Oct-2016,Fully Paid,medical,GA,32.91987511901392
+15173, 60 months,7.5%,E,< 1 year,MORTGAGE,81375,Not Verified,May-2018,Fully Paid,car,TX,13.113385564142792
+26834, 36 months,18.7%,E,3 years,MORTGAGE,116442,Verified,Apr-2017,Charged Off,home_improvement,FL,17.010667828098754
+23047, 36 months,13.6%,C,10+ years,MORTGAGE,49572,Source Verified,Apr-2015,Fully Paid,car,TX,31.11187724677106
+31105, 36 months,9.0%,C,7 years,OWN,147925,Not Verified,Jan-2015,Late (31-120 days),major_purchase,CA,15.774854728412564
+15230, 60 months,14.8%,B,9 years,MORTGAGE,34136,Not Verified,Feb-2016,Fully Paid,medical,MI,23.007590988005152
+20707, 36 months,6.3%,B,6 years,OWN,91868,Not Verified,Aug-2017,Charged Off,vacation,NY,8.54163521780156
+26976, 60 months,16.6%,B,8 years,RENT,112263,Verified,Oct-2015,Fully Paid,small_business,GA,6.6882496433372225
+16494, 60 months,10.4%,D,4 years,RENT,62167,Verified,May-2016,Fully Paid,medical,PA,17.359819684765178
+31813, 36 months,21.0%,C,9 years,RENT,140957,Source Verified,Jul-2017,Fully Paid,debt_consolidation,OH,22.367495977781523
+28776, 36 months,11.2%,E,3 years,MORTGAGE,45479,Not Verified,Aug-2018,Fully Paid,small_business,TX,16.78097340076824
+6306, 36 months,14.1%,B,7 years,OWN,149392,Not Verified,Jul-2016,Fully Paid,small_business,PA,22.33207310482526
+33605, 60 months,5.2%,C,8 years,MORTGAGE,61376,Verified,Jul-2018,Current,vacation,GA,20.45253128515355
+11776, 36 months,6.4%,C,6 years,RENT,34823,Verified,May-2016,Late (31-120 days),car,GA,25.571216878582277
+32251, 60 months,12.8%,C,6 years,OWN,100456,Source Verified,Jun-2018,Fully Paid,vacation,FL,24.485972931961694
+34644, 36 months,14.6%,D,4 years,RENT,49585,Source Verified,Oct-2016,Fully Paid,vacation,PA,17.727371096197402
+27248, 60 months,17.0%,B,3 years,RENT,133775,Verified,Dec-2018,Fully Paid,small_business,IL,17.7498572125959
+14474, 60 months,10.8%,C,9 years,MORTGAGE,47272,Not Verified,Sep-2017,Fully Paid,home_improvement,NC,9.22335020036696
+12526, 36 months,18.9%,A,< 1 year,OWN,56619,Source Verified,Jun-2018,Fully Paid,car,GA,20.397157162893777
+30285, 60 months,22.2%,B,9 years,RENT,105069,Verified,May-2017,Current,small_business,TX,22.615373844070902
+26959, 60 months,20.6%,C,9 years,MORTGAGE,69895,Verified,Dec-2017,Late (16-30 days),car,OH,19.294681920614785
+10530, 36 months,5.8%,D,6 years,RENT,33720,Not Verified,Oct-2016,Late (31-120 days),major_purchase,OH,14.77122005260997
+34320, 60 months,14.6%,F,< 1 year,MORTGAGE,49267,Verified,Apr-2017,Fully Paid,car,CA,26.649456327552077
+25797, 36 months,7.1%,C,< 1 year,RENT,45696,Verified,Dec-2017,Current,credit_card,CA,7.239849339356722
+8748, 60 months,9.8%,D,4 years,RENT,59968,Source Verified,Aug-2017,Current,home_improvement,FL,32.43321109262142
+18545, 36 months,24.7%,C,8 years,RENT,83364,Verified,Jul-2017,Fully Paid,debt_consolidation,IL,5.6193031863737986
+34355, 36 months,7.8%,C,5 years,RENT,53345,Verified,Jul-2015,Fully Paid,credit_card,FL,33.87050400314834
+5663, 60 months,15.0%,A,2 years,RENT,81567,Source Verified,Jul-2016,Current,credit_card,OH,18.870668028039873
+6998, 60 months,17.4%,B,2 years,MORTGAGE,121229,Not Verified,Feb-2016,Fully Paid,vacation,NY,17.380098320106235
+12994, 60 months,19.0%,B,6 years,MORTGAGE,91607,Not Verified,Mar-2016,Fully Paid,vacation,OH,12.693320523895643
+33021, 60 months,16.2%,C,5 years,MORTGAGE,49385,Source Verified,Sep-2018,Fully Paid,credit_card,GA,5.302134044968495
+33319, 60 months,5.2%,A,8 years,RENT,113658,Source Verified,Mar-2016,Fully Paid,small_business,PA,13.243707932653994
+22879, 36 months,11.5%,A,5 years,OWN,96900,Not Verified,Sep-2018,Fully Paid,car,PA,8.281997763810018
+8304, 60 months,15.4%,B,4 years,RENT,98244,Not Verified,Oct-2015,Late (31-120 days),car,GA,24.794625280801842
+25147, 36 months,6.8%,G,9 years,RENT,95425,Not Verified,Apr-2016,Charged Off,medical,GA,14.572249169621788
+26616, 36 months,12.0%,B,6 years,MORTGAGE,108518,Not Verified,Dec-2015,Charged Off,small_business,OH,28.015379852109845
+23237, 60 months,5.7%,C,< 1 year,OWN,112844,Not Verified,Mar-2017,Fully Paid,home_improvement,PA,11.207485620383508
+18808, 36 months,6.6%,A,6 years,RENT,62919,Source Verified,Jul-2017,Charged Off,small_business,PA,32.007045722963284
+11585, 36 months,12.9%,C,2 years,RENT,120697,Verified,Nov-2018,Fully Paid,small_business,MI,20.689445453174976
+34235, 36 months,7.7%,B,8 years,MORTGAGE,87196,Not Verified,Oct-2017,Fully Paid,small_business,PA,8.435185894069441
+22675, 36 months,16.4%,B,5 years,RENT,145600,Not Verified,Apr-2017,Fully Paid,home_improvement,GA,17.025357069604368
+24965, 60 months,18.8%,C,8 years,OWN,130625,Verified,Mar-2017,Fully Paid,medical,CA,11.202815722092849
+16649, 36 months,21.0%,A,4 years,OWN,109401,Verified,Dec-2015,Fully Paid,home_improvement,IL,10.990562785045377
+28938, 60 months,9.0%,A,6 years,RENT,30495,Verified,Nov-2017,Fully Paid,major_purchase,NY,20.191092129566268
+28664, 60 months,8.3%,B,3 years,RENT,74755,Verified,Jan-2018,Fully Paid,medical,GA,25.15676046909118
+6636, 36 months,7.1%,A,6 years,RENT,97684,Verified,Oct-2017,Fully Paid,major_purchase,PA,32.348546165102846
+25080, 60 months,17.7%,A,< 1 year,MORTGAGE,63324,Verified,Jun-2017,Late (16-30 days),major_purchase,TX,20.064860322909603
+32575, 60 months,19.1%,B,6 years,OWN,108929,Source Verified,May-2015,Fully Paid,major_purchase,OH,33.975163251749905
+32728, 60 months,5.6%,E,7 years,MORTGAGE,31552,Verified,Feb-2017,Charged Off,car,OH,33.24904556220106
+22082, 36 months,23.7%,C,4 years,MORTGAGE,81272,Verified,Feb-2018,Fully Paid,credit_card,IL,30.951875899530812
+31736, 60 months,6.0%,C,1 year,MORTGAGE,65853,Source Verified,Jun-2016,Fully Paid,credit_card,GA,19.99931794887256
+33673, 60 months,15.8%,B,4 years,OWN,148192,Verified,Nov-2017,Late (16-30 days),major_purchase,IL,9.227118310639506
+9737, 60 months,19.2%,F,5 years,OWN,62924,Not Verified,Aug-2018,Fully Paid,major_purchase,CA,11.537134094461548
+19555, 36 months,22.4%,B,1 year,MORTGAGE,104462,Not Verified,Nov-2016,Fully Paid,debt_consolidation,NC,24.430100081359267
+18877, 60 months,19.3%,A,5 years,MORTGAGE,126387,Verified,Feb-2015,Charged Off,vacation,FL,17.652649408525882
+5854, 36 months,21.0%,C,5 years,OWN,53889,Source Verified,Feb-2015,Fully Paid,credit_card,TX,9.404048952619892
+29548, 36 months,11.8%,A,< 1 year,MORTGAGE,135466,Not Verified,Jan-2016,Current,vacation,FL,19.369818009179312
+10855, 36 months,21.3%,B,< 1 year,RENT,84675,Source Verified,Feb-2018,Fully Paid,vacation,NC,5.522916365061378
+12392, 36 months,6.6%,C,10+ years,OWN,103591,Not Verified,Jul-2018,Fully Paid,debt_consolidation,TX,27.0168611269878
+27912, 36 months,22.9%,E,9 years,RENT,100190,Verified,May-2016,Fully Paid,vacation,FL,7.207438834690726
+33050, 36 months,16.0%,C,2 years,RENT,52634,Source Verified,Dec-2015,Fully Paid,medical,TX,23.87340859736357
+18949, 60 months,21.3%,D,9 years,RENT,62363,Source Verified,Jun-2018,Current,debt_consolidation,IL,28.79030922876798
+26633, 36 months,14.0%,G,9 years,MORTGAGE,93752,Source Verified,Aug-2015,Charged Off,vacation,NY,8.979316233618967
+26556, 60 months,17.9%,A,2 years,OWN,107004,Not Verified,Mar-2018,Fully Paid,vacation,MI,20.559160719980376
+23091, 60 months,15.5%,B,3 years,RENT,86398,Not Verified,Nov-2015,Fully Paid,small_business,TX,28.37202543078409
+32353, 36 months,19.6%,B,1 year,OWN,128458,Not Verified,Nov-2018,Charged Off,vacation,NC,12.819003642710042
+10791, 60 months,6.6%,B,8 years,OWN,70718,Verified,Jan-2016,Fully Paid,car,IL,9.887497790048574
+31309, 60 months,6.2%,B,9 years,RENT,143627,Not Verified,Aug-2018,Fully Paid,medical,MI,15.104573329023706
+26919, 60 months,9.9%,F,10+ years,MORTGAGE,112916,Verified,May-2015,Fully Paid,home_improvement,IL,21.640975297499473
+9931, 60 months,8.2%,D,6 years,MORTGAGE,56870,Source Verified,Aug-2015,Fully Paid,credit_card,CA,22.2583878456425
+24894, 36 months,22.4%,C,6 years,MORTGAGE,67394,Source Verified,Oct-2016,Charged Off,major_purchase,PA,8.92629000373061
+5202, 60 months,9.4%,B,5 years,MORTGAGE,82057,Verified,Sep-2018,Late (16-30 days),vacation,OH,18.72706543021915
+16447, 36 months,24.5%,E,2 years,OWN,109795,Not Verified,Jul-2017,Fully Paid,medical,CA,13.048465866184635
+25602, 60 months,11.7%,F,5 years,RENT,110409,Verified,Feb-2017,Fully Paid,major_purchase,NC,30.26072654194852
+17688, 60 months,8.6%,E,7 years,RENT,43016,Source Verified,May-2016,Fully Paid,home_improvement,GA,14.407253961920922
+30342, 36 months,20.8%,A,7 years,RENT,72137,Source Verified,Apr-2016,Fully Paid,medical,GA,30.161135736015787
+9389, 60 months,18.2%,C,10+ years,MORTGAGE,30153,Verified,Sep-2017,Fully Paid,credit_card,OH,17.856938378053762
+7327, 60 months,15.0%,A,8 years,RENT,37853,Not Verified,Dec-2016,Current,medical,IL,26.7975729747936
+13004, 60 months,16.1%,B,< 1 year,RENT,42379,Not Verified,Jul-2016,Fully Paid,major_purchase,NY,20.301806856324312
+24315, 36 months,19.4%,A,< 1 year,MORTGAGE,45792,Verified,Aug-2016,Fully Paid,major_purchase,NC,23.658878723929295
+12777, 60 months,9.6%,C,2 years,MORTGAGE,68367,Verified,Jun-2017,Fully Paid,small_business,OH,16.860695325841494
+5197, 36 months,24.9%,D,2 years,MORTGAGE,48100,Not Verified,Aug-2017,Fully Paid,vacation,MI,28.04620303422472
+28509, 60 months,24.5%,A,9 years,RENT,143089,Source Verified,Nov-2017,Fully Paid,debt_consolidation,MI,17.75568150720975
+6930, 36 months,18.0%,B,7 years,RENT,93456,Verified,Jan-2016,Current,medical,GA,18.723849397574657
+16774, 36 months,9.0%,C,9 years,RENT,41049,Not Verified,Jun-2018,Fully Paid,major_purchase,PA,20.530360046928717
+20087, 60 months,18.6%,B,< 1 year,RENT,30786,Not Verified,Jun-2015,Charged Off,car,IL,29.954723551579505
+27671, 60 months,6.4%,A,1 year,RENT,99904,Source Verified,Nov-2018,Fully Paid,credit_card,GA,24.781367858043946
+30184, 36 months,5.6%,B,1 year,OWN,60699,Source Verified,Aug-2016,Fully Paid,car,NY,15.474811596972494
+32848, 36 months,10.2%,D,2 years,MORTGAGE,77691,Source Verified,Dec-2017,Fully Paid,home_improvement,OH,25.109589019446286
+14339, 60 months,14.3%,A,5 years,RENT,67040,Source Verified,Jan-2015,Fully Paid,medical,TX,24.272797190257318
+25666, 36 months,22.4%,A,< 1 year,MORTGAGE,148455,Source Verified,Apr-2016,Fully Paid,small_business,NY,32.93057827639113
+16589, 60 months,19.5%,B,1 year,MORTGAGE,122990,Verified,Sep-2015,Fully Paid,credit_card,TX,30.2424930807605
+23895, 60 months,19.9%,F,< 1 year,RENT,87986,Not Verified,Dec-2015,Charged Off,small_business,IL,24.423407712537443
+20708, 60 months,13.5%,D,4 years,MORTGAGE,68762,Verified,May-2016,Charged Off,debt_consolidation,OH,15.245213320521309
+31370, 60 months,11.9%,D,6 years,RENT,53600,Verified,May-2015,Fully Paid,major_purchase,MI,28.387293465838084
+22043, 36 months,12.4%,B,7 years,RENT,124774,Verified,Oct-2016,Fully Paid,vacation,MI,22.25624879188403
+7811, 60 months,24.8%,C,9 years,MORTGAGE,120777,Verified,Aug-2017,Fully Paid,credit_card,CA,34.55809964302705
+28482, 36 months,5.8%,A,< 1 year,RENT,49810,Verified,Sep-2015,Fully Paid,home_improvement,MI,12.42518385709412
+19243, 60 months,22.3%,C,6 years,MORTGAGE,115703,Source Verified,Jan-2018,Fully Paid,vacation,NC,7.389675227926609
+11546, 36 months,16.6%,F,4 years,RENT,117347,Source Verified,Sep-2017,Current,medical,CA,7.096754356638431
+30945, 60 months,13.8%,C,9 years,OWN,135315,Not Verified,Aug-2016,Fully Paid,debt_consolidation,CA,24.20091165055041
+6986, 36 months,19.5%,E,< 1 year,OWN,87204,Verified,Sep-2015,Fully Paid,debt_consolidation,MI,33.177806867345716
+13338, 36 months,14.7%,D,2 years,RENT,50085,Not Verified,Sep-2017,Fully Paid,small_business,GA,5.057957428745156
+16411, 60 months,22.5%,A,6 years,RENT,76854,Source Verified,Nov-2018,Fully Paid,debt_consolidation,PA,26.77313140873332
+7911, 60 months,23.0%,F,9 years,MORTGAGE,104797,Source Verified,Oct-2015,Charged Off,credit_card,PA,24.71195547598836
+6734, 60 months,13.4%,A,< 1 year,MORTGAGE,114269,Source Verified,Jan-2015,Fully Paid,small_business,NC,26.969125766583975
+23227, 60 months,10.5%,C,6 years,MORTGAGE,69779,Verified,Sep-2017,Fully Paid,vacation,FL,15.662162202870068
+13680, 36 months,16.8%,A,4 years,OWN,86207,Verified,Jun-2018,Charged Off,debt_consolidation,GA,29.61489333973565
+24360, 60 months,23.2%,A,< 1 year,MORTGAGE,124615,Source Verified,Jul-2015,Fully Paid,medical,FL,6.341207942565859
+23343, 36 months,9.2%,B,< 1 year,MORTGAGE,63980,Not Verified,Oct-2016,Current,vacation,TX,27.662933018660826
+10759, 36 months,17.5%,B,< 1 year,MORTGAGE,86117,Not Verified,Jul-2018,Fully Paid,home_improvement,GA,13.012158240472631
+28078, 60 months,17.6%,C,10+ years,OWN,44141,Source Verified,Aug-2015,Fully Paid,medical,OH,19.305133245742148
+7385, 36 months,19.7%,C,8 years,MORTGAGE,39344,Not Verified,Aug-2016,Charged Off,car,FL,29.679088146716616
+16111, 36 months,7.6%,A,10+ years,MORTGAGE,135008,Source Verified,Apr-2015,Fully Paid,credit_card,NC,13.14077105573411
+9736, 36 months,19.3%,A,2 years,RENT,45896,Not Verified,Dec-2018,Fully Paid,home_improvement,NC,10.556225349316804
+6802, 36 months,23.2%,C,4 years,MORTGAGE,119353,Source Verified,Mar-2015,Fully Paid,home_improvement,GA,25.439395560436527
+13155, 60 months,8.6%,B,10+ years,OWN,59813,Not Verified,Apr-2017,Fully Paid,small_business,CA,21.001846745204137
+13120, 60 months,9.8%,D,9 years,RENT,114431,Verified,Jun-2017,Charged Off,major_purchase,OH,20.432116062385536
+11616, 60 months,24.4%,D,8 years,RENT,95679,Source Verified,Jul-2018,Current,small_business,IL,12.703085466137395
+19257, 60 months,8.6%,E,5 years,RENT,40681,Source Verified,Apr-2018,Late (16-30 days),credit_card,OH,6.0464091746008295
+19486, 36 months,22.1%,D,8 years,OWN,102903,Not Verified,Jul-2016,Charged Off,credit_card,NC,17.308074149951505
+26918, 36 months,14.8%,B,7 years,MORTGAGE,33228,Source Verified,Nov-2018,Fully Paid,small_business,TX,8.19678441403304
+25445, 60 months,9.9%,D,7 years,RENT,34582,Source Verified,Jan-2016,Fully Paid,major_purchase,FL,32.179674519476066
+32945, 60 months,22.4%,B,< 1 year,MORTGAGE,108683,Source Verified,Nov-2017,Fully Paid,medical,FL,6.237509704151916
+21646, 60 months,13.9%,B,8 years,MORTGAGE,41397,Verified,Dec-2017,Fully Paid,small_business,TX,17.949525625531443
+19075, 36 months,15.3%,D,5 years,RENT,68799,Verified,Nov-2017,Fully Paid,credit_card,NY,6.567367511024837
+27671, 60 months,12.2%,B,8 years,MORTGAGE,67011,Not Verified,Jul-2016,Late (31-120 days),major_purchase,GA,7.866316236942989
+30199, 60 months,16.9%,D,2 years,MORTGAGE,109183,Verified,Oct-2018,Fully Paid,credit_card,NC,24.76600000766066
+14208, 60 months,8.3%,E,2 years,MORTGAGE,123254,Not Verified,Sep-2015,Fully Paid,major_purchase,PA,24.413337829222836
+21371, 36 months,12.8%,E,5 years,MORTGAGE,74264,Verified,Feb-2015,Fully Paid,major_purchase,MI,5.991565846383193
+16835, 36 months,24.4%,F,8 years,MORTGAGE,72317,Not Verified,Jul-2017,Current,vacation,TX,5.033944253626106
+18168, 36 months,10.2%,B,6 years,MORTGAGE,77914,Verified,Apr-2015,Charged Off,small_business,TX,7.3645423172835205
+7049, 36 months,18.1%,B,2 years,RENT,114633,Verified,Aug-2018,Charged Off,small_business,OH,27.889966931358266
+10423, 36 months,11.5%,C,2 years,MORTGAGE,132489,Not Verified,Jan-2016,Fully Paid,small_business,GA,22.537294182545214
+19589, 36 months,20.5%,B,1 year,MORTGAGE,75254,Source Verified,Feb-2018,Current,major_purchase,GA,6.143547355654748
+33299, 36 months,7.6%,C,8 years,OWN,70096,Source Verified,Dec-2017,Fully Paid,major_purchase,PA,19.642910476184817
+25932, 36 months,24.4%,D,2 years,RENT,83785,Verified,Aug-2017,Current,credit_card,MI,26.36088071163354
+24492, 60 months,14.1%,D,10+ years,MORTGAGE,82344,Not Verified,Jan-2018,Fully Paid,home_improvement,GA,31.06854183802419
+34855, 60 months,9.7%,B,4 years,RENT,144988,Source Verified,Oct-2018,Fully Paid,small_business,CA,33.02109471977032
+33666, 36 months,6.5%,A,8 years,MORTGAGE,112643,Not Verified,May-2015,Fully Paid,vacation,NC,14.823216888622
+12158, 36 months,8.4%,B,7 years,RENT,98546,Source Verified,Jul-2018,Charged Off,car,CA,9.074972852397972
+15248, 60 months,15.4%,A,1 year,RENT,101091,Not Verified,Nov-2015,Fully Paid,credit_card,NY,12.107777621943423
+12400, 36 months,11.7%,E,2 years,OWN,95603,Verified,Jul-2015,Current,credit_card,NC,28.285144761206713
+24554, 36 months,21.6%,B,1 year,RENT,58412,Not Verified,May-2018,Fully Paid,debt_consolidation,IL,34.144526451269314
+14874, 36 months,13.6%,A,7 years,MORTGAGE,140489,Source Verified,Oct-2017,Fully Paid,small_business,NC,18.991808520811418
+20151, 60 months,10.0%,A,5 years,MORTGAGE,81658,Verified,Jun-2015,Fully Paid,medical,NC,14.160596406433694
+23639, 60 months,17.3%,C,5 years,MORTGAGE,129841,Not Verified,Dec-2017,Fully Paid,credit_card,PA,17.875717458801034
+6154, 60 months,19.1%,C,8 years,RENT,79549,Source Verified,Sep-2017,Fully Paid,debt_consolidation,CA,14.144394339353973
+9499, 60 months,8.3%,B,7 years,RENT,41549,Verified,Mar-2017,Fully Paid,car,MI,12.69462569621463
+11295, 60 months,8.4%,A,3 years,MORTGAGE,101216,Not Verified,Jul-2017,Charged Off,vacation,OH,22.812522572215386
+27581, 36 months,5.7%,B,3 years,MORTGAGE,55739,Source Verified,Jun-2018,Fully Paid,car,PA,5.472079411206332
+32767, 60 months,19.7%,B,8 years,OWN,51209,Not Verified,Mar-2016,Late (16-30 days),medical,NC,12.786567459949644
+31272, 36 months,18.3%,D,< 1 year,OWN,137051,Not Verified,Jul-2015,Fully Paid,small_business,OH,24.84146233534967
+17183, 36 months,14.5%,C,1 year,RENT,117968,Verified,Jul-2016,Current,major_purchase,FL,5.961880889204151
+34299, 60 months,21.9%,B,1 year,MORTGAGE,45116,Verified,Jun-2016,Fully Paid,debt_consolidation,OH,7.49605449526805
+17874, 60 months,21.1%,B,5 years,MORTGAGE,50045,Source Verified,Aug-2015,Fully Paid,major_purchase,TX,13.801884343573544
+23032, 36 months,16.7%,G,3 years,RENT,56327,Verified,Apr-2017,Fully Paid,car,PA,31.334143958269546
+10539, 36 months,22.4%,C,10+ years,RENT,65709,Source Verified,Jan-2016,Fully Paid,car,PA,27.946584804958885
+14637, 36 months,9.1%,D,9 years,MORTGAGE,73617,Not Verified,Jan-2016,Current,home_improvement,TX,5.664698882487306
+25583, 60 months,7.2%,A,2 years,RENT,90139,Not Verified,Dec-2018,Fully Paid,home_improvement,FL,20.051384500654756
+33499, 60 months,10.4%,C,2 years,RENT,56905,Source Verified,Nov-2018,Fully Paid,vacation,GA,13.240624819622504
+29829, 60 months,6.1%,A,2 years,OWN,94148,Not Verified,Aug-2017,Current,medical,GA,24.459369771861887
+20586, 60 months,15.6%,C,5 years,RENT,102603,Verified,Dec-2016,Fully Paid,home_improvement,GA,26.646616477803835
+32759, 60 months,23.7%,F,7 years,RENT,128095,Not Verified,Jan-2018,Charged Off,home_improvement,GA,30.885877313878474
+7557, 36 months,5.8%,B,10+ years,MORTGAGE,149779,Verified,Nov-2016,Fully Paid,medical,CA,19.26248711312043
+10592, 60 months,7.4%,A,6 years,MORTGAGE,72919,Source Verified,Feb-2018,Current,credit_card,TX,34.833502656367536
+21482, 36 months,14.0%,A,3 years,MORTGAGE,113521,Source Verified,Jan-2018,Fully Paid,home_improvement,FL,34.39958321861328
+7200, 36 months,23.7%,B,10+ years,MORTGAGE,122905,Not Verified,Mar-2018,Fully Paid,credit_card,NC,31.465001734130993
+19172, 36 months,11.3%,A,3 years,OWN,113400,Not Verified,Aug-2018,Fully Paid,credit_card,NY,22.246084854742126
+7961, 60 months,15.1%,A,10+ years,MORTGAGE,118150,Verified,Jun-2016,Late (31-120 days),small_business,PA,16.94019312511445
+19207, 60 months,5.8%,D,9 years,RENT,88446,Verified,May-2015,Fully Paid,credit_card,OH,15.93158930419355
+26357, 60 months,8.0%,C,10+ years,MORTGAGE,82428,Not Verified,Sep-2018,Fully Paid,credit_card,GA,5.363742502632345
+25817, 36 months,24.7%,B,10+ years,MORTGAGE,77894,Not Verified,Oct-2017,Charged Off,home_improvement,OH,12.475234917270996
+16969, 36 months,24.3%,F,10+ years,RENT,111149,Source Verified,Dec-2018,Late (31-120 days),credit_card,NY,26.564247048474936
+7869, 36 months,5.1%,A,1 year,RENT,36447,Source Verified,Dec-2017,Current,major_purchase,PA,23.108962996791995
+32810, 36 months,24.0%,F,< 1 year,OWN,35499,Source Verified,Jan-2017,Late (16-30 days),medical,IL,32.492665675026004
+33367, 36 months,17.8%,B,8 years,RENT,69041,Not Verified,Sep-2017,Fully Paid,home_improvement,MI,6.500668007496736
+22340, 36 months,22.4%,E,1 year,RENT,61315,Not Verified,Oct-2018,Fully Paid,medical,FL,9.658298095319918
+18992, 60 months,14.1%,C,7 years,MORTGAGE,31299,Not Verified,Dec-2018,Charged Off,debt_consolidation,CA,28.677313680563906
+33643, 60 months,15.3%,E,8 years,MORTGAGE,135005,Source Verified,Sep-2017,Current,home_improvement,OH,15.755228935860014
+29736, 60 months,14.8%,G,3 years,OWN,34994,Not Verified,Feb-2017,Fully Paid,credit_card,GA,8.550360011536338
+10699, 60 months,18.3%,B,7 years,RENT,125414,Verified,Jun-2016,Fully Paid,major_purchase,TX,34.893515153002674
+28328, 36 months,7.8%,F,8 years,RENT,111163,Not Verified,Dec-2017,Current,medical,OH,28.617509080080886
+25877, 36 months,5.6%,B,9 years,MORTGAGE,37489,Not Verified,Apr-2017,Fully Paid,home_improvement,PA,17.262231102743677
+30876, 60 months,11.2%,B,9 years,OWN,121647,Not Verified,Feb-2016,Fully Paid,major_purchase,IL,29.70042430838421
+26295, 36 months,19.1%,B,4 years,RENT,62355,Not Verified,Aug-2016,Fully Paid,medical,FL,25.4181161035746
+8987, 60 months,9.0%,C,6 years,OWN,103805,Not Verified,Sep-2016,Fully Paid,debt_consolidation,TX,28.699242787095
+31103, 60 months,18.5%,A,9 years,RENT,98367,Verified,May-2016,Current,car,MI,29.456191326969495
+27399, 60 months,24.4%,C,3 years,OWN,139906,Verified,Aug-2015,Fully Paid,vacation,PA,7.5418604987095375
+18446, 36 months,6.9%,C,< 1 year,MORTGAGE,147409,Not Verified,Oct-2018,Charged Off,vacation,IL,23.68918663064287
+6218, 60 months,18.5%,D,2 years,OWN,107355,Source Verified,Jun-2017,Fully Paid,debt_consolidation,TX,5.2035665893048275
+25880, 60 months,13.9%,E,4 years,MORTGAGE,146220,Not Verified,Nov-2016,Fully Paid,car,MI,6.303687389035119
+9735, 60 months,22.4%,B,2 years,RENT,120349,Not Verified,Aug-2015,Charged Off,small_business,OH,32.119400271675225
+16296, 36 months,8.5%,B,10+ years,MORTGAGE,117173,Not Verified,Dec-2015,Fully Paid,car,PA,20.826911640704168
+32311, 36 months,18.9%,B,6 years,MORTGAGE,31996,Source Verified,Dec-2016,Fully Paid,small_business,NC,27.077059576055746
+9555, 60 months,21.8%,A,8 years,RENT,149999,Source Verified,Nov-2018,Fully Paid,home_improvement,MI,30.15502971329438
+14146, 36 months,23.9%,A,5 years,OWN,74387,Source Verified,May-2017,Fully Paid,small_business,IL,33.48760302693755
+13050, 36 months,18.7%,B,9 years,RENT,144965,Verified,Sep-2016,Fully Paid,vacation,NC,31.080585437683876
+17757, 36 months,14.9%,B,< 1 year,MORTGAGE,33089,Source Verified,Nov-2015,Current,vacation,NC,19.499343460918816
+24830, 36 months,17.4%,F,6 years,OWN,128827,Verified,Jun-2016,Current,major_purchase,CA,15.079109221415344
+22429, 36 months,22.4%,C,2 years,MORTGAGE,50659,Verified,Jun-2018,Current,small_business,IL,9.634797086181145
+11893, 36 months,16.4%,B,4 years,RENT,75178,Source Verified,Aug-2017,Fully Paid,major_purchase,NC,17.009644474618398
+23077, 36 months,5.6%,C,9 years,MORTGAGE,125965,Source Verified,Apr-2017,Fully Paid,vacation,OH,15.994807374834902
+19373, 36 months,23.6%,A,3 years,MORTGAGE,111268,Source Verified,Jul-2015,Fully Paid,medical,PA,21.7872452586762
+19565, 36 months,18.8%,B,9 years,MORTGAGE,115042,Verified,Feb-2016,Fully Paid,medical,PA,24.965282262716403
+8436, 36 months,18.5%,C,4 years,RENT,136471,Not Verified,Nov-2016,Fully Paid,car,OH,34.34976429335143
+13754, 60 months,9.3%,C,4 years,OWN,100726,Source Verified,Aug-2015,Fully Paid,car,CA,26.851585583021976
+15677, 60 months,18.2%,B,5 years,MORTGAGE,100111,Source Verified,Nov-2016,Late (16-30 days),car,FL,24.312455973287697
+10895, 36 months,12.9%,G,9 years,RENT,136031,Source Verified,Dec-2016,Fully Paid,small_business,CA,15.052773028050277
+24738, 60 months,18.0%,E,9 years,RENT,143682,Verified,Feb-2017,Fully Paid,car,PA,6.03511629494978
+21609, 60 months,7.1%,C,10+ years,OWN,64565,Verified,Oct-2015,Current,small_business,FL,13.643753865640754
+20636, 36 months,18.2%,C,5 years,OWN,130435,Not Verified,Jun-2016,Fully Paid,small_business,CA,28.053437013788532
+26277, 36 months,25.0%,C,7 years,RENT,119242,Source Verified,Jul-2016,Current,credit_card,NC,11.158158224114052
+12022, 36 months,6.0%,B,7 years,RENT,143204,Verified,Aug-2017,Current,credit_card,FL,26.365645810223434
+14151, 60 months,24.5%,B,10+ years,RENT,52884,Not Verified,Jun-2015,Late (31-120 days),small_business,PA,22.393395277082476
+10600, 60 months,13.1%,A,8 years,MORTGAGE,47199,Source Verified,Mar-2017,Fully Paid,medical,OH,10.155706092513945
+34124, 36 months,22.4%,C,7 years,MORTGAGE,90038,Verified,Jun-2018,Charged Off,major_purchase,GA,12.848744188754898
+32643, 36 months,20.6%,C,10+ years,MORTGAGE,87786,Source Verified,Feb-2015,Fully Paid,vacation,NC,19.889108104594296
+12996, 36 months,16.3%,B,1 year,MORTGAGE,139636,Source Verified,Dec-2018,Charged Off,vacation,NC,17.551241153235424
+14007, 60 months,19.8%,F,9 years,OWN,134970,Verified,Dec-2016,Fully Paid,home_improvement,GA,28.356915426402786
+17946, 60 months,22.6%,F,10+ years,RENT,79294,Verified,Jan-2017,Fully Paid,debt_consolidation,MI,27.03213927629741
+29067, 60 months,13.1%,D,< 1 year,RENT,108015,Verified,Oct-2017,Fully Paid,credit_card,NY,22.237235104190514
+9642, 60 months,11.5%,C,9 years,RENT,64178,Source Verified,Apr-2018,Fully Paid,small_business,TX,29.668241344187756
+34887, 36 months,18.4%,E,1 year,MORTGAGE,42665,Source Verified,Feb-2015,Current,debt_consolidation,IL,21.880086220529257
+16312, 36 months,21.2%,A,1 year,OWN,30534,Not Verified,Dec-2017,Current,credit_card,CA,33.93167769971781
+12679, 36 months,20.2%,D,2 years,RENT,121828,Source Verified,Nov-2016,Charged Off,home_improvement,NY,11.516722974532442
+13208, 36 months,21.0%,A,9 years,RENT,66132,Verified,Nov-2015,Fully Paid,vacation,CA,26.42395980806458
+28723, 60 months,13.7%,D,6 years,OWN,145720,Source Verified,Apr-2017,Current,major_purchase,NY,16.098323961634037
+30819, 60 months,21.4%,B,1 year,MORTGAGE,66110,Not Verified,Jul-2018,Fully Paid,small_business,FL,13.368985832605816
+23589, 36 months,7.4%,E,< 1 year,RENT,88754,Not Verified,Oct-2017,Current,home_improvement,OH,10.411624279031386
+15716, 36 months,15.9%,F,5 years,MORTGAGE,93580,Verified,Jun-2016,Late (31-120 days),vacation,IL,21.575104287846315
+22453, 60 months,5.1%,A,8 years,OWN,52469,Verified,Nov-2015,Fully Paid,medical,IL,11.464082982476338
+8444, 36 months,11.5%,C,2 years,RENT,94016,Not Verified,Feb-2018,Current,credit_card,CA,11.010525543452179
+15757, 60 months,12.3%,G,5 years,MORTGAGE,76233,Not Verified,May-2015,Fully Paid,small_business,GA,34.715957152514534
+19434, 36 months,12.9%,C,2 years,RENT,132804,Not Verified,Aug-2018,Fully Paid,debt_consolidation,FL,29.052422505372824
+6060, 36 months,18.9%,E,< 1 year,MORTGAGE,96708,Verified,Jun-2018,Fully Paid,medical,MI,27.44830460763126
+23711, 36 months,12.8%,C,4 years,MORTGAGE,88232,Not Verified,May-2018,Fully Paid,vacation,IL,28.821818776482647
+8420, 36 months,14.0%,B,9 years,MORTGAGE,123450,Not Verified,Mar-2017,Current,medical,TX,34.067686211562275
+5301, 36 months,9.8%,B,10+ years,MORTGAGE,116437,Verified,Feb-2015,Fully Paid,car,CA,22.198300662596104
+17468, 36 months,12.5%,B,3 years,RENT,136311,Source Verified,Mar-2018,Fully Paid,major_purchase,NC,11.607316322085817
+21990, 36 months,9.5%,D,6 years,MORTGAGE,64409,Source Verified,Mar-2017,Fully Paid,vacation,TX,30.86628922259717
+24554, 60 months,6.5%,B,5 years,OWN,145159,Not Verified,Jun-2018,Current,medical,PA,27.281921883622704
+5699, 60 months,17.1%,C,9 years,MORTGAGE,49324,Source Verified,Aug-2018,Late (31-120 days),credit_card,CA,17.429249370025193
+26472, 60 months,18.4%,C,6 years,MORTGAGE,38738,Source Verified,Feb-2018,Current,major_purchase,CA,19.207084957239392
+30715, 60 months,17.4%,C,4 years,MORTGAGE,133030,Source Verified,Nov-2017,Charged Off,small_business,NC,17.337571954366073
+5190, 60 months,14.3%,E,3 years,MORTGAGE,140093,Source Verified,Jan-2015,Fully Paid,car,FL,32.898264806870124
+15492, 36 months,12.6%,G,6 years,RENT,54054,Not Verified,Dec-2015,Fully Paid,vacation,NC,15.305948344948824
+22364, 36 months,22.3%,B,6 years,MORTGAGE,59709,Source Verified,Oct-2017,Fully Paid,home_improvement,IL,33.90452835968517
+7975, 60 months,15.4%,E,5 years,MORTGAGE,139321,Source Verified,Jul-2015,Fully Paid,major_purchase,OH,32.3081531376185
+11102, 36 months,14.6%,D,7 years,MORTGAGE,115643,Verified,Jan-2018,Charged Off,debt_consolidation,CA,23.9156342674452
+22568, 60 months,5.5%,C,3 years,MORTGAGE,30363,Not Verified,May-2015,Fully Paid,credit_card,PA,22.394653193002238
+24711, 60 months,11.8%,F,9 years,RENT,40358,Verified,Apr-2018,Current,vacation,GA,16.102678402099126
+24778, 36 months,12.6%,B,4 years,RENT,131613,Verified,Jul-2015,Fully Paid,debt_consolidation,CA,5.550151670319496
+29703, 36 months,13.0%,A,3 years,OWN,145233,Not Verified,Jul-2017,Fully Paid,major_purchase,NC,8.828695587132598
+31641, 36 months,16.6%,E,< 1 year,MORTGAGE,33240,Source Verified,Oct-2015,Fully Paid,vacation,NY,27.62693970048646
+6816, 60 months,15.7%,B,7 years,RENT,102201,Verified,Jul-2015,Current,car,CA,19.146203797644958
+27238, 36 months,17.2%,E,< 1 year,OWN,75689,Not Verified,Jul-2016,Current,home_improvement,CA,9.495144025639043
+28093, 60 months,20.3%,E,4 years,RENT,31936,Source Verified,Aug-2017,Current,home_improvement,PA,12.91882562395613
+5569, 60 months,21.3%,A,5 years,MORTGAGE,142272,Not Verified,Sep-2018,Fully Paid,debt_consolidation,PA,33.435106995409996
+10442, 60 months,19.4%,E,5 years,OWN,121074,Verified,Mar-2017,Late (16-30 days),small_business,CA,16.013985059307952
+6895, 36 months,24.1%,B,4 years,RENT,73965,Source Verified,Apr-2018,Fully Paid,small_business,NY,32.2304583565746
+24117, 36 months,5.4%,C,2 years,RENT,107534,Source Verified,Dec-2015,Fully Paid,car,OH,14.139074968807302
+8863, 60 months,8.9%,C,4 years,RENT,30882,Not Verified,Jul-2017,Late (16-30 days),home_improvement,MI,21.296602831014827
+17913, 36 months,5.2%,F,7 years,OWN,50224,Source Verified,Oct-2015,Fully Paid,debt_consolidation,NY,5.614312500865937
+12455, 36 months,17.9%,A,1 year,RENT,135227,Verified,Jul-2018,Charged Off,debt_consolidation,NY,20.65625331120731
+9014, 36 months,23.0%,C,5 years,RENT,149299,Verified,Jan-2018,Fully Paid,vacation,NY,24.10826031831891
+16093, 60 months,9.9%,D,8 years,MORTGAGE,142012,Verified,Feb-2017,Fully Paid,vacation,OH,12.029152980115338
+23070, 60 months,23.5%,D,7 years,MORTGAGE,60825,Not Verified,Nov-2017,Late (31-120 days),debt_consolidation,FL,22.36811528616071
+8009, 36 months,6.2%,D,10+ years,OWN,100740,Source Verified,Feb-2017,Fully Paid,vacation,FL,24.415033161529564
+29190, 60 months,23.7%,A,7 years,MORTGAGE,58885,Source Verified,Sep-2017,Charged Off,major_purchase,NY,25.606582351452694
+21538, 36 months,12.0%,B,7 years,RENT,70056,Source Verified,Feb-2017,Fully Paid,vacation,MI,28.292099660663094
+15729, 36 months,7.0%,B,6 years,MORTGAGE,33203,Verified,Apr-2017,Charged Off,car,NC,14.340177287882495
+6409, 36 months,14.7%,E,7 years,MORTGAGE,90241,Source Verified,Feb-2015,Fully Paid,small_business,TX,22.033308692956346
+17249, 36 months,10.1%,B,5 years,OWN,32244,Verified,Jul-2015,Fully Paid,small_business,FL,34.44737089293783
+5784, 60 months,10.7%,B,1 year,RENT,128322,Source Verified,May-2015,Fully Paid,major_purchase,GA,31.944325119954716
+32751, 60 months,11.1%,F,1 year,OWN,145329,Verified,May-2018,Fully Paid,credit_card,PA,33.57996284295099
+13096, 60 months,21.1%,A,7 years,OWN,98619,Source Verified,Dec-2017,Late (31-120 days),major_purchase,OH,16.58409195585714
+12560, 36 months,15.8%,G,10+ years,MORTGAGE,51584,Not Verified,Jul-2016,Fully Paid,car,OH,28.607843176899852
+17533, 36 months,11.2%,D,< 1 year,RENT,38521,Not Verified,Aug-2015,Fully Paid,debt_consolidation,TX,23.596938552810435
+12343, 36 months,17.2%,E,5 years,RENT,80017,Verified,May-2016,Fully Paid,major_purchase,FL,7.482052491867233
+12206, 60 months,19.3%,B,5 years,RENT,63541,Verified,Sep-2016,Fully Paid,debt_consolidation,MI,29.719411674711964
+26980, 36 months,10.5%,A,10+ years,RENT,59063,Source Verified,Nov-2018,Current,car,MI,25.31303829072094
+10801, 60 months,13.3%,D,3 years,OWN,100268,Source Verified,Jun-2015,Late (16-30 days),medical,PA,10.967520785458003
+24190, 60 months,7.4%,E,10+ years,RENT,148206,Not Verified,Oct-2017,Fully Paid,car,NY,7.39215672288384
+21921, 60 months,8.6%,D,10+ years,MORTGAGE,94952,Source Verified,Sep-2017,Current,home_improvement,NC,30.11066391944992
+10986, 60 months,18.6%,A,9 years,RENT,123054,Verified,Mar-2016,Fully Paid,debt_consolidation,FL,7.3670548847360315
+23225, 60 months,8.6%,D,2 years,RENT,69563,Verified,Nov-2015,Fully Paid,small_business,MI,7.740615960993099
+34592, 60 months,15.5%,D,10+ years,MORTGAGE,69752,Verified,Nov-2017,Charged Off,major_purchase,TX,17.82224863712946
+15647, 36 months,19.2%,D,2 years,RENT,125233,Verified,Feb-2017,Fully Paid,medical,PA,9.043934852584313
+13716, 36 months,7.1%,D,< 1 year,MORTGAGE,32567,Verified,Apr-2016,Charged Off,car,CA,32.41008792328158
+28355, 60 months,16.3%,E,2 years,MORTGAGE,46121,Not Verified,Jun-2015,Current,debt_consolidation,PA,19.108518087897103
+27009, 60 months,10.1%,C,3 years,RENT,31674,Not Verified,Sep-2015,Fully Paid,medical,MI,22.074529419637145
+24334, 36 months,24.3%,A,10+ years,RENT,106411,Verified,Dec-2016,Late (31-120 days),credit_card,CA,32.84318268434262
+29376, 60 months,14.7%,C,10+ years,RENT,139876,Source Verified,Jul-2015,Current,home_improvement,GA,20.907896769150458
+17323, 60 months,21.1%,A,4 years,RENT,96275,Verified,Sep-2015,Fully Paid,credit_card,IL,15.607734378719556
+9780, 36 months,16.0%,B,2 years,RENT,97081,Not Verified,Jan-2017,Charged Off,car,PA,28.914653174474953
+33691, 60 months,5.9%,B,5 years,RENT,59140,Verified,Jun-2016,Fully Paid,credit_card,TX,18.28550592425632
+7368, 60 months,17.7%,A,10+ years,RENT,39327,Not Verified,Oct-2018,Late (16-30 days),credit_card,TX,14.554082768069161
+17039, 60 months,24.0%,B,4 years,OWN,100663,Not Verified,Nov-2015,Charged Off,home_improvement,NC,26.696883758166038
+11655, 36 months,17.0%,A,2 years,MORTGAGE,53331,Verified,Jan-2015,Fully Paid,home_improvement,NY,29.04817029839129
+13173, 36 months,21.4%,E,5 years,OWN,53004,Verified,May-2018,Fully Paid,vacation,PA,28.751485027528144
+9495, 36 months,22.7%,F,5 years,RENT,137369,Source Verified,Jan-2018,Charged Off,home_improvement,MI,34.33023242386123
+15893, 60 months,9.6%,A,7 years,RENT,149243,Not Verified,Mar-2016,Fully Paid,medical,IL,28.60000846624888
+30547, 60 months,9.2%,F,1 year,MORTGAGE,40492,Source Verified,Sep-2016,Fully Paid,vacation,FL,28.098003078460586
+27386, 36 months,17.2%,C,< 1 year,OWN,84797,Verified,Nov-2015,Fully Paid,home_improvement,MI,30.724557612086606
+27998, 60 months,13.2%,B,3 years,MORTGAGE,88095,Not Verified,Jul-2016,Fully Paid,credit_card,TX,5.005555858863284
+30742, 60 months,21.8%,A,6 years,RENT,43749,Source Verified,Apr-2015,Fully Paid,small_business,GA,15.87294233563312
+18403, 60 months,23.0%,C,10+ years,MORTGAGE,93217,Source Verified,Oct-2015,Fully Paid,small_business,MI,27.128092881032664
+18121, 60 months,12.1%,D,9 years,OWN,119044,Source Verified,Jan-2016,Fully Paid,vacation,OH,22.99157033330832
+27303, 60 months,9.7%,D,2 years,RENT,39045,Verified,Sep-2016,Charged Off,home_improvement,TX,10.32716007894853
+15966, 36 months,20.6%,A,2 years,OWN,50116,Verified,Jul-2016,Fully Paid,medical,PA,14.11199267265636
+31558, 60 months,10.5%,A,4 years,OWN,48667,Verified,May-2018,Fully Paid,major_purchase,GA,15.103778332463204
+5853, 36 months,21.5%,B,4 years,RENT,105057,Not Verified,Apr-2016,Fully Paid,debt_consolidation,OH,22.03484333516948
+25530, 60 months,13.5%,B,9 years,RENT,104205,Verified,Apr-2015,Fully Paid,car,CA,29.947948893232294
+33312, 36 months,18.4%,B,2 years,MORTGAGE,57302,Not Verified,Jun-2015,Fully Paid,medical,IL,32.974753393330396
+25153, 60 months,6.9%,B,8 years,MORTGAGE,41283,Source Verified,Jul-2015,Fully Paid,major_purchase,TX,27.50277238560917
+21958, 36 months,17.5%,E,3 years,RENT,60935,Source Verified,Oct-2017,Fully Paid,car,PA,30.288511705304295
+32837, 60 months,14.0%,F,2 years,RENT,102534,Verified,Jul-2018,Current,major_purchase,OH,19.102878753545482
+22532, 36 months,16.7%,B,10+ years,RENT,124342,Source Verified,Jan-2016,Current,major_purchase,OH,16.693259588668624
+27677, 60 months,8.4%,F,1 year,MORTGAGE,61624,Verified,Aug-2018,Current,vacation,NY,16.78125596432651
+27841, 36 months,19.7%,B,9 years,RENT,43440,Not Verified,Jan-2015,Current,small_business,OH,23.481155850198714
+28893, 60 months,22.3%,C,10+ years,MORTGAGE,141001,Source Verified,Aug-2018,Charged Off,debt_consolidation,IL,8.72710116667427
+14907, 36 months,9.3%,B,8 years,RENT,76501,Verified,Dec-2018,Fully Paid,major_purchase,GA,22.384825483707836
+9777, 36 months,6.9%,C,3 years,RENT,117333,Source Verified,Aug-2017,Charged Off,home_improvement,GA,24.953985805511767
+34509, 60 months,5.5%,G,2 years,MORTGAGE,31269,Source Verified,Sep-2017,Fully Paid,car,OH,18.167262206187164
+25238, 60 months,17.8%,C,6 years,MORTGAGE,37868,Verified,Jan-2016,Charged Off,medical,PA,33.59501530313502
+34749, 36 months,17.1%,B,7 years,OWN,60251,Source Verified,Jun-2018,Current,small_business,TX,23.246398171387256
+20338, 60 months,15.9%,C,10+ years,OWN,107909,Source Verified,Oct-2016,Fully Paid,car,PA,11.599984167098755
+7491, 36 months,9.6%,A,1 year,MORTGAGE,114523,Source Verified,Jun-2016,Fully Paid,vacation,NC,19.37648772300549
+32236, 36 months,12.8%,E,6 years,RENT,68729,Source Verified,Jan-2017,Fully Paid,home_improvement,TX,25.26213311405882
+20328, 36 months,16.9%,C,4 years,MORTGAGE,45734,Not Verified,Jan-2015,Charged Off,home_improvement,CA,14.70887373741437
+19599, 60 months,14.9%,B,10+ years,RENT,72429,Source Verified,Oct-2015,Charged Off,major_purchase,IL,7.389248188670695
+24508, 36 months,24.8%,C,4 years,MORTGAGE,71337,Source Verified,Nov-2015,Current,home_improvement,PA,22.50306904132655
+27075, 36 months,7.7%,C,2 years,MORTGAGE,70325,Verified,Aug-2017,Fully Paid,debt_consolidation,NY,33.4361050585904
+8051, 60 months,18.9%,A,4 years,RENT,113600,Not Verified,Mar-2017,Current,vacation,GA,19.552159566895213
+20979, 60 months,13.1%,D,1 year,MORTGAGE,92514,Verified,Jan-2016,Fully Paid,home_improvement,OH,32.18327241941114
+21388, 60 months,13.6%,B,3 years,RENT,38433,Verified,Mar-2018,Current,major_purchase,TX,30.05070765115082
+26606, 60 months,19.4%,D,5 years,RENT,143957,Verified,Dec-2018,Fully Paid,car,OH,9.4223835090195
+26699, 36 months,18.8%,E,< 1 year,OWN,39111,Not Verified,Dec-2015,Fully Paid,vacation,CA,26.245097655067124
+26253, 36 months,24.8%,E,9 years,RENT,133986,Verified,Nov-2015,Fully Paid,home_improvement,NC,18.063965752159355
+5876, 36 months,7.6%,C,3 years,MORTGAGE,93753,Verified,Aug-2015,Current,small_business,OH,12.507389757888106
+30567, 36 months,7.1%,C,5 years,RENT,143783,Verified,May-2015,Late (16-30 days),vacation,PA,25.60815067000109
+28411, 60 months,19.5%,A,8 years,RENT,110583,Source Verified,Jul-2018,Fully Paid,vacation,TX,27.279821559692643
+9142, 36 months,16.6%,D,10+ years,RENT,103620,Verified,Nov-2015,Fully Paid,medical,NY,10.396889562045164
+20202, 36 months,10.5%,B,10+ years,RENT,51751,Not Verified,Sep-2016,Late (31-120 days),small_business,CA,32.43334046168626
+11966, 60 months,6.6%,C,1 year,OWN,46453,Not Verified,Oct-2016,Fully Paid,small_business,MI,27.534417318543227
+12079, 36 months,6.7%,B,10+ years,MORTGAGE,115844,Source Verified,Nov-2018,Charged Off,car,IL,33.00126497425906
+12987, 36 months,22.9%,A,6 years,MORTGAGE,68968,Not Verified,Jun-2018,Fully Paid,credit_card,NC,14.512196562910729
+11799, 36 months,8.8%,C,5 years,MORTGAGE,60077,Not Verified,Aug-2018,Fully Paid,medical,PA,33.18005047228961
+33940, 36 months,11.5%,A,1 year,RENT,138582,Source Verified,Nov-2017,Current,small_business,IL,16.055529735151424
+9465, 36 months,9.5%,D,7 years,OWN,64775,Verified,Jul-2017,Current,small_business,NY,6.619092842821752
+22019, 36 months,12.1%,B,6 years,RENT,88144,Source Verified,Oct-2015,Fully Paid,credit_card,IL,27.889081661270698
+18417, 60 months,6.4%,A,10+ years,RENT,78570,Verified,May-2016,Fully Paid,car,GA,26.105244322650226
+23077, 60 months,15.4%,C,4 years,OWN,76097,Verified,Jan-2016,Current,medical,TX,22.937329767899975
+31258, 36 months,6.4%,A,4 years,RENT,54503,Not Verified,Feb-2016,Fully Paid,small_business,IL,19.69681233152522
+26136, 36 months,21.0%,B,6 years,RENT,32779,Source Verified,Sep-2018,Current,major_purchase,PA,5.964958109678942
+13311, 60 months,9.7%,D,8 years,MORTGAGE,116840,Not Verified,Sep-2015,Fully Paid,car,MI,23.73791754560463
+22214, 36 months,15.8%,A,10+ years,OWN,30755,Not Verified,Oct-2018,Fully Paid,medical,GA,17.50503845668381
+19098, 36 months,22.6%,E,8 years,OWN,69263,Verified,Mar-2018,Late (31-120 days),small_business,GA,21.80628208222835
+33251, 36 months,18.0%,A,8 years,RENT,138491,Not Verified,Jun-2015,Charged Off,small_business,IL,17.879640259029088
+10177, 60 months,15.7%,B,5 years,RENT,85087,Source Verified,Jun-2016,Fully Paid,credit_card,NC,33.98168398295597
+19262, 36 months,11.5%,D,9 years,MORTGAGE,72281,Not Verified,Mar-2016,Charged Off,medical,FL,23.123267034525416
+30945, 60 months,11.7%,B,5 years,RENT,81482,Not Verified,Jan-2018,Fully Paid,major_purchase,NC,27.477089918074014
+30316, 36 months,18.4%,A,2 years,OWN,84857,Verified,Apr-2016,Fully Paid,car,OH,33.0904084241325
+13308, 60 months,24.9%,B,< 1 year,RENT,47400,Source Verified,Dec-2016,Late (16-30 days),home_improvement,PA,22.74797968750219
+10949, 60 months,18.2%,B,6 years,OWN,70115,Not Verified,Nov-2018,Current,debt_consolidation,FL,5.361875534672023
+24222, 36 months,16.2%,E,3 years,RENT,44249,Verified,Oct-2016,Charged Off,major_purchase,TX,6.028750349316271
+6150, 60 months,19.6%,B,< 1 year,MORTGAGE,143183,Not Verified,Jul-2017,Fully Paid,home_improvement,GA,26.070153023055855
+28944, 36 months,14.3%,D,7 years,MORTGAGE,76825,Source Verified,Nov-2018,Fully Paid,major_purchase,PA,13.372554084538505
+6931, 60 months,6.2%,E,5 years,MORTGAGE,140361,Not Verified,Apr-2017,Fully Paid,medical,NY,22.381391820438463
+14204, 36 months,16.2%,B,5 years,RENT,54600,Not Verified,Jan-2015,Fully Paid,home_improvement,OH,11.068315432720068
+23048, 36 months,24.2%,F,1 year,MORTGAGE,67706,Verified,Feb-2015,Current,medical,MI,13.107466251851424
+6081, 60 months,8.5%,B,< 1 year,OWN,49222,Not Verified,Oct-2018,Fully Paid,home_improvement,OH,20.139231678442258
+34305, 36 months,18.8%,F,1 year,RENT,129041,Verified,Aug-2015,Current,major_purchase,PA,34.267083900682465
+21896, 36 months,9.0%,A,3 years,MORTGAGE,134504,Source Verified,Jul-2015,Fully Paid,credit_card,TX,23.488114676275746
+32425, 60 months,15.7%,D,1 year,RENT,71139,Not Verified,Sep-2016,Fully Paid,major_purchase,GA,33.0844431353907
+18407, 36 months,6.9%,C,< 1 year,RENT,144919,Source Verified,Dec-2016,Fully Paid,medical,CA,33.781395631608426
+12805, 36 months,14.0%,B,6 years,MORTGAGE,146605,Source Verified,Jun-2017,Fully Paid,major_purchase,CA,11.243299892615223
+10237, 60 months,20.1%,C,10+ years,RENT,71302,Not Verified,Mar-2017,Fully Paid,vacation,PA,14.335808074068334
+21943, 60 months,12.0%,D,10+ years,OWN,124684,Verified,Jun-2017,Late (16-30 days),vacation,IL,28.099768436561124
+25056, 36 months,18.3%,A,7 years,RENT,117838,Source Verified,Aug-2017,Fully Paid,home_improvement,NC,31.002920068740316
+17775, 36 months,20.9%,A,5 years,MORTGAGE,98159,Source Verified,Nov-2017,Late (31-120 days),vacation,OH,20.576802325685833
+28788, 60 months,23.5%,D,3 years,MORTGAGE,38646,Not Verified,Apr-2018,Fully Paid,debt_consolidation,TX,34.79678201841648
+21244, 60 months,9.7%,D,5 years,MORTGAGE,43543,Not Verified,Oct-2016,Late (16-30 days),home_improvement,OH,5.347165962658108
+18184, 36 months,13.0%,F,2 years,RENT,124496,Not Verified,Sep-2016,Fully Paid,vacation,NY,13.987779667556469
+8343, 60 months,8.0%,D,7 years,RENT,52785,Not Verified,Feb-2017,Late (31-120 days),small_business,CA,23.694852612337396
+18500, 36 months,24.8%,F,9 years,OWN,108353,Not Verified,Feb-2016,Fully Paid,major_purchase,GA,19.078697328124484
+25454, 36 months,23.5%,D,1 year,RENT,61406,Not Verified,Apr-2015,Current,car,NY,8.498088992864023
+34375, 36 months,15.8%,B,4 years,RENT,118992,Verified,Aug-2016,Late (31-120 days),major_purchase,GA,16.033612564416906
+14662, 36 months,21.8%,A,< 1 year,OWN,81428,Source Verified,Aug-2018,Fully Paid,vacation,OH,5.763414298851171
+21964, 36 months,15.4%,D,5 years,OWN,53777,Verified,Feb-2017,Fully Paid,credit_card,TX,24.282381382258382
+20125, 60 months,17.5%,C,1 year,MORTGAGE,87939,Verified,Oct-2017,Fully Paid,medical,CA,31.782276289890657
+28388, 60 months,6.8%,A,3 years,RENT,83026,Not Verified,Jun-2016,Late (31-120 days),car,OH,31.546223713503768
+31870, 60 months,20.1%,B,5 years,RENT,116450,Source Verified,Oct-2015,Fully Paid,home_improvement,CA,25.986334212966394
+13130, 60 months,7.6%,F,9 years,RENT,59553,Verified,Nov-2015,Fully Paid,credit_card,PA,18.97310586493783
+24531, 36 months,21.5%,C,10+ years,MORTGAGE,53548,Not Verified,Feb-2018,Fully Paid,major_purchase,MI,20.360948560744692
+25633, 36 months,20.6%,B,7 years,MORTGAGE,93221,Not Verified,Jan-2017,Fully Paid,vacation,MI,9.107564719869888
+6679, 36 months,19.2%,C,7 years,MORTGAGE,67265,Source Verified,Feb-2015,Current,home_improvement,GA,15.230512793576091
+8506, 36 months,5.7%,B,10+ years,MORTGAGE,70701,Verified,Apr-2015,Fully Paid,home_improvement,OH,10.631842264948208
+18284, 60 months,11.1%,B,5 years,OWN,81287,Verified,Jul-2015,Charged Off,small_business,FL,29.636006100498637
+12253, 36 months,10.3%,B,3 years,OWN,36727,Verified,Aug-2018,Late (31-120 days),small_business,CA,32.44261704013879
+24128, 36 months,12.2%,A,7 years,RENT,140460,Not Verified,Dec-2016,Fully Paid,vacation,CA,21.10769784260351
+32932, 60 months,6.8%,D,7 years,OWN,80717,Source Verified,Apr-2016,Charged Off,vacation,FL,26.83292121538832
+33621, 60 months,23.7%,B,9 years,OWN,62427,Source Verified,Jan-2016,Fully Paid,debt_consolidation,IL,8.643943127213824
+14435, 60 months,16.1%,E,< 1 year,OWN,46692,Verified,Jan-2018,Charged Off,small_business,OH,23.25603929831715
+26572, 60 months,11.1%,E,3 years,MORTGAGE,61625,Not Verified,Apr-2015,Fully Paid,medical,FL,26.08373064133538
+16310, 36 months,12.9%,B,3 years,MORTGAGE,54918,Verified,Nov-2018,Current,car,MI,18.583043885342022
+18296, 36 months,13.9%,D,6 years,MORTGAGE,136931,Source Verified,Dec-2017,Fully Paid,home_improvement,CA,12.298192534120957
+23525, 60 months,17.0%,C,10+ years,MORTGAGE,71136,Not Verified,Jul-2015,Fully Paid,small_business,MI,31.321235616241744
+18245, 36 months,15.3%,E,6 years,MORTGAGE,144826,Verified,Aug-2015,Fully Paid,vacation,OH,27.28726159861167
+32635, 36 months,23.4%,B,10+ years,RENT,144881,Verified,Aug-2016,Fully Paid,debt_consolidation,TX,31.99571845547585
+34124, 36 months,14.9%,D,7 years,RENT,82409,Not Verified,Oct-2016,Current,vacation,TX,29.552079424934703
+34899, 60 months,24.8%,C,10+ years,MORTGAGE,45577,Source Verified,Jun-2016,Fully Paid,vacation,GA,34.71123288736588
+16151, 36 months,22.0%,B,4 years,MORTGAGE,115155,Not Verified,Jan-2015,Charged Off,vacation,MI,10.76518199643347
+15457, 60 months,9.2%,A,6 years,RENT,141776,Verified,Nov-2017,Fully Paid,major_purchase,MI,7.6024330341192226
+28001, 36 months,23.6%,D,7 years,MORTGAGE,129246,Verified,Mar-2017,Charged Off,car,MI,15.110083740117755
+7479, 36 months,7.3%,D,8 years,RENT,132924,Verified,May-2015,Fully Paid,small_business,IL,8.870125250697766
+27868, 36 months,21.3%,B,2 years,RENT,111731,Verified,Oct-2016,Fully Paid,home_improvement,MI,20.69390338718673
+34222, 60 months,12.6%,C,2 years,MORTGAGE,57689,Source Verified,Jul-2016,Fully Paid,major_purchase,TX,23.990867162232274
+31211, 36 months,22.6%,B,3 years,RENT,41154,Source Verified,Dec-2015,Current,vacation,IL,22.34865845520211
+34984, 60 months,22.4%,D,4 years,RENT,134657,Verified,Nov-2017,Fully Paid,medical,GA,12.777204061708105
+28805, 60 months,21.1%,A,9 years,RENT,124948,Source Verified,Apr-2016,Current,home_improvement,PA,32.264720929063905
+31333, 60 months,20.8%,E,< 1 year,MORTGAGE,51341,Source Verified,Nov-2016,Current,major_purchase,NY,5.635170912061353
+9452, 36 months,11.1%,B,6 years,OWN,127554,Source Verified,Dec-2017,Fully Paid,medical,GA,15.440400612904789
+31646, 36 months,6.6%,B,8 years,MORTGAGE,104681,Verified,Oct-2016,Charged Off,medical,NC,26.56977426194183
+10881, 36 months,13.1%,A,7 years,OWN,137798,Not Verified,Oct-2018,Fully Paid,car,IL,28.007867790474783
+28049, 36 months,8.5%,A,4 years,RENT,76330,Not Verified,Oct-2017,Fully Paid,home_improvement,TX,17.4835563329558
+19069, 60 months,18.9%,C,3 years,MORTGAGE,148069,Not Verified,Jan-2018,Current,small_business,TX,5.5072943976910125
+7849, 60 months,11.9%,B,6 years,RENT,117759,Verified,Oct-2016,Charged Off,small_business,OH,23.541310373712122
+32827, 60 months,24.5%,E,4 years,MORTGAGE,98416,Source Verified,Feb-2015,Charged Off,debt_consolidation,CA,6.892840435496471
+12390, 36 months,17.8%,A,6 years,OWN,116807,Source Verified,Aug-2017,Fully Paid,major_purchase,MI,8.235673284605435
+28289, 60 months,21.4%,B,< 1 year,MORTGAGE,63313,Verified,Jul-2018,Fully Paid,debt_consolidation,TX,24.5075215893857
+16922, 36 months,7.7%,B,< 1 year,RENT,76900,Verified,Nov-2015,Fully Paid,credit_card,MI,14.374649784285644
+7489, 60 months,22.2%,A,9 years,OWN,108840,Not Verified,Jun-2016,Current,small_business,FL,15.440904581247587
+14823, 36 months,23.5%,A,2 years,RENT,64695,Not Verified,Jan-2015,Fully Paid,major_purchase,CA,19.604212309497303
+32392, 36 months,14.7%,B,10+ years,RENT,60225,Verified,Sep-2018,Current,car,FL,34.35735184578122
+14207, 60 months,17.1%,C,1 year,MORTGAGE,116072,Not Verified,May-2017,Fully Paid,debt_consolidation,MI,33.96326662216131
+14540, 60 months,20.3%,B,1 year,RENT,126367,Source Verified,Apr-2018,Fully Paid,car,IL,17.487829980802253
+21364, 60 months,8.5%,C,6 years,OWN,79156,Verified,Aug-2015,Fully Paid,car,NC,12.964976516548465
+9611, 60 months,15.1%,C,9 years,RENT,107209,Verified,Apr-2015,Fully Paid,vacation,CA,14.077764579923473
+32663, 36 months,13.0%,A,1 year,RENT,117453,Source Verified,Sep-2018,Fully Paid,vacation,IL,13.063438944848123
+24223, 60 months,7.9%,C,10+ years,MORTGAGE,57829,Source Verified,Jun-2016,Current,car,TX,20.96737421425342
+29911, 60 months,12.4%,F,3 years,OWN,110908,Source Verified,Dec-2016,Current,debt_consolidation,NC,23.205794234027856
+10878, 60 months,6.4%,C,1 year,MORTGAGE,55938,Not Verified,Nov-2017,Fully Paid,vacation,PA,19.66338164688998
+34168, 36 months,5.5%,D,5 years,MORTGAGE,89164,Verified,Sep-2016,Fully Paid,credit_card,TX,17.23983086744457
+21347, 36 months,7.7%,B,7 years,MORTGAGE,84530,Not Verified,Mar-2018,Fully Paid,medical,NY,11.338551127098134
+30471, 60 months,24.3%,D,9 years,RENT,98199,Source Verified,Jul-2018,Current,medical,GA,19.4751677414634
+27687, 36 months,16.0%,D,3 years,MORTGAGE,90282,Not Verified,May-2018,Fully Paid,vacation,CA,15.233081414073741
+33122, 60 months,24.3%,C,4 years,MORTGAGE,77801,Source Verified,Jan-2017,Late (31-120 days),debt_consolidation,NY,21.247863883950288
+5851, 36 months,13.6%,G,3 years,MORTGAGE,39465,Not Verified,May-2017,Fully Paid,medical,MI,25.255682465348716
+23071, 36 months,11.2%,A,2 years,OWN,33326,Not Verified,Mar-2016,Fully Paid,home_improvement,CA,23.999365233098317
+31507, 36 months,15.1%,A,4 years,MORTGAGE,33659,Source Verified,May-2015,Late (31-120 days),medical,GA,18.874706312167802
+11833, 36 months,13.8%,D,8 years,MORTGAGE,90289,Not Verified,Jan-2018,Fully Paid,small_business,CA,21.681572728398827
+16938, 60 months,7.1%,E,7 years,MORTGAGE,57594,Verified,Oct-2016,Fully Paid,debt_consolidation,IL,13.54568392882279
+7427, 60 months,17.8%,A,7 years,RENT,145819,Not Verified,Aug-2015,Fully Paid,vacation,FL,5.727207770671691
+31144, 60 months,9.3%,B,7 years,RENT,34763,Not Verified,Jan-2016,Fully Paid,vacation,OH,23.750583625043124
+9000, 36 months,17.4%,A,7 years,MORTGAGE,118657,Verified,Apr-2018,Fully Paid,medical,IL,12.577056774130607
+10052, 60 months,18.0%,B,6 years,RENT,40828,Source Verified,Feb-2017,Charged Off,debt_consolidation,GA,25.068611302048236
+7738, 60 months,8.0%,D,7 years,MORTGAGE,77588,Verified,Sep-2016,Current,credit_card,CA,27.410254987908782
+33074, 60 months,6.2%,C,10+ years,RENT,41221,Not Verified,Aug-2018,Fully Paid,home_improvement,IL,32.47783238311344
+27116, 36 months,20.6%,B,7 years,OWN,41211,Source Verified,Apr-2015,Late (31-120 days),vacation,FL,33.74368386438839
+10387, 36 months,14.2%,B,7 years,RENT,43569,Not Verified,Apr-2015,Fully Paid,debt_consolidation,NY,5.315781389291043
+13002, 36 months,6.2%,A,9 years,RENT,126894,Not Verified,Sep-2015,Fully Paid,vacation,IL,34.711226280639124
+10536, 60 months,24.9%,B,6 years,MORTGAGE,67860,Verified,Feb-2015,Fully Paid,vacation,MI,25.490549554824828
+18479, 60 months,6.2%,C,< 1 year,MORTGAGE,101558,Verified,Nov-2018,Fully Paid,small_business,NY,24.305724811225677
+8913, 60 months,18.9%,G,3 years,MORTGAGE,75337,Source Verified,Feb-2018,Fully Paid,medical,GA,5.4563928558606625
+22450, 36 months,24.7%,E,3 years,OWN,82311,Source Verified,Jan-2016,Late (16-30 days),small_business,NY,30.837002356602127
+29107, 36 months,9.8%,A,4 years,MORTGAGE,43515,Source Verified,Mar-2015,Fully Paid,medical,CA,9.364743417434791
+25764, 60 months,7.8%,E,9 years,MORTGAGE,101695,Not Verified,Dec-2017,Fully Paid,vacation,NC,30.11990461799123
+15636, 36 months,7.4%,D,5 years,OWN,141527,Verified,Sep-2017,Fully Paid,debt_consolidation,NC,5.46687638776148
+25491, 36 months,11.1%,D,3 years,RENT,136749,Verified,Oct-2015,Current,car,PA,24.37892787497484
+10726, 36 months,7.0%,C,1 year,MORTGAGE,117227,Verified,Oct-2015,Current,medical,MI,18.044046013094835
+8373, 36 months,18.8%,B,5 years,MORTGAGE,54904,Source Verified,Sep-2018,Fully Paid,car,CA,11.023001871780053
+17161, 60 months,6.2%,B,7 years,MORTGAGE,89935,Verified,Mar-2015,Fully Paid,home_improvement,GA,8.226841753113023
+32122, 36 months,15.2%,A,7 years,RENT,73790,Verified,May-2015,Fully Paid,small_business,TX,18.203830896389793
+30329, 36 months,24.9%,B,6 years,MORTGAGE,98580,Verified,Oct-2016,Fully Paid,car,NC,8.699174159642743
+7082, 36 months,21.3%,B,5 years,OWN,105148,Source Verified,Sep-2017,Fully Paid,small_business,GA,19.593398350731427
+32350, 36 months,17.3%,C,1 year,OWN,35636,Verified,Jul-2018,Fully Paid,medical,NY,23.756511759585567
+32472, 60 months,11.1%,D,6 years,RENT,107129,Source Verified,Jul-2018,Fully Paid,medical,IL,29.821525808220745
+33761, 60 months,17.5%,C,10+ years,OWN,144483,Verified,Sep-2017,Fully Paid,home_improvement,NC,25.359483115486
+30351, 36 months,15.5%,A,4 years,RENT,32892,Verified,Sep-2016,Fully Paid,medical,CA,6.955993001184514
+28132, 36 months,13.5%,F,5 years,RENT,51672,Verified,Jul-2016,Late (31-120 days),vacation,NC,14.222975976435116
+21281, 36 months,7.6%,F,9 years,MORTGAGE,35812,Source Verified,Sep-2018,Late (31-120 days),home_improvement,FL,13.639358237975012
+20305, 36 months,22.7%,D,7 years,MORTGAGE,126621,Source Verified,Jan-2015,Fully Paid,car,FL,32.450972704132525
+14817, 36 months,14.0%,G,7 years,OWN,30654,Verified,Mar-2018,Fully Paid,medical,FL,31.033461331782906
+16261, 36 months,8.9%,C,2 years,MORTGAGE,84633,Not Verified,Jun-2015,Fully Paid,debt_consolidation,MI,16.104437550512507
+5417, 60 months,12.4%,F,6 years,RENT,47143,Source Verified,Feb-2015,Fully Paid,major_purchase,NC,7.134657676477433
+29690, 36 months,13.3%,A,< 1 year,RENT,85934,Source Verified,Oct-2016,Current,credit_card,PA,31.823219534142
+13808, 60 months,21.6%,B,< 1 year,MORTGAGE,97334,Verified,Apr-2018,Fully Paid,vacation,GA,31.64569858892562
+25358, 60 months,19.7%,B,6 years,RENT,133463,Not Verified,May-2017,Current,major_purchase,FL,30.64238396092175
+8267, 36 months,20.4%,A,9 years,RENT,59087,Verified,Aug-2016,Late (31-120 days),major_purchase,NY,30.352449132065047
+22209, 60 months,5.2%,A,8 years,RENT,41618,Source Verified,Apr-2018,Fully Paid,small_business,CA,19.40762003258464
+29052, 60 months,13.3%,C,6 years,RENT,38446,Source Verified,May-2018,Fully Paid,vacation,MI,10.322949567487946
+10745, 60 months,14.6%,D,9 years,MORTGAGE,117182,Verified,Apr-2016,Fully Paid,vacation,OH,19.32464151387283
+31092, 60 months,5.4%,C,4 years,RENT,132127,Verified,Jun-2018,Fully Paid,home_improvement,FL,19.837933120083946
+16338, 60 months,10.2%,A,7 years,OWN,78867,Not Verified,Mar-2018,Fully Paid,small_business,GA,19.69795259734582
+5412, 60 months,20.2%,E,1 year,RENT,81028,Not Verified,Jun-2016,Fully Paid,car,NY,21.163177583453486
+12543, 36 months,7.7%,C,8 years,MORTGAGE,90101,Source Verified,May-2015,Current,credit_card,CA,12.729710689734652
+12587, 60 months,15.7%,B,5 years,RENT,57200,Not Verified,Feb-2016,Fully Paid,car,IL,15.98723543400845
+5728, 60 months,9.3%,D,8 years,MORTGAGE,125107,Not Verified,Oct-2017,Fully Paid,debt_consolidation,TX,18.025597758904084
+32924, 60 months,5.2%,B,1 year,OWN,118074,Source Verified,Feb-2015,Charged Off,credit_card,NY,8.933636285494995
+28548, 36 months,9.8%,B,2 years,RENT,136091,Source Verified,Jul-2015,Charged Off,small_business,PA,18.660924036845014
+32384, 60 months,24.5%,F,7 years,OWN,91465,Source Verified,Jan-2017,Fully Paid,medical,NY,29.31408851208779
+30251, 36 months,21.0%,B,< 1 year,RENT,139500,Source Verified,Apr-2018,Current,medical,NY,29.841786281986288
+16657, 60 months,24.2%,C,9 years,OWN,116436,Verified,Apr-2016,Fully Paid,small_business,PA,17.34691315703091
+10988, 36 months,14.8%,E,6 years,RENT,148422,Source Verified,Jul-2015,Fully Paid,car,IL,20.564249362530603
+23888, 36 months,7.2%,D,6 years,MORTGAGE,117892,Source Verified,Feb-2018,Fully Paid,small_business,MI,6.009509964051699
+7967, 60 months,16.0%,A,< 1 year,RENT,118559,Source Verified,Jan-2016,Fully Paid,small_business,NC,25.232976694057907
+19527, 60 months,14.1%,A,8 years,MORTGAGE,69148,Not Verified,Jul-2015,Current,major_purchase,CA,17.13817648840589
+24170, 36 months,21.9%,A,7 years,RENT,112928,Source Verified,Oct-2016,Charged Off,debt_consolidation,NY,18.364330492500372
+21048, 60 months,7.0%,C,3 years,RENT,50698,Verified,Apr-2015,Current,vacation,NY,31.210181815392943
+22506, 36 months,14.8%,B,9 years,OWN,72470,Verified,Jan-2015,Fully Paid,medical,PA,18.85503303681825
+25463, 36 months,8.0%,A,10+ years,MORTGAGE,122071,Source Verified,Jan-2018,Fully Paid,major_purchase,GA,5.635767386835583
+22955, 36 months,11.5%,F,4 years,RENT,81660,Verified,Jul-2018,Fully Paid,small_business,NY,11.824726726071871
+10073, 36 months,19.7%,C,1 year,RENT,83910,Not Verified,Nov-2015,Fully Paid,home_improvement,NY,19.26861842924777
+10104, 36 months,14.5%,B,8 years,RENT,65450,Source Verified,Jan-2016,Charged Off,major_purchase,PA,17.731888782456075
+7143, 60 months,12.5%,C,5 years,RENT,86463,Verified,Nov-2018,Current,small_business,GA,30.81110411841442
+31263, 36 months,12.9%,D,2 years,RENT,63757,Verified,Oct-2018,Fully Paid,medical,PA,21.264125279185
+28190, 36 months,14.2%,A,6 years,OWN,108012,Source Verified,Mar-2015,Fully Paid,vacation,MI,25.68907225745363
+12357, 60 months,20.7%,B,8 years,RENT,136750,Verified,Nov-2018,Fully Paid,small_business,NY,19.079698911304103
+33708, 36 months,22.8%,E,2 years,RENT,100247,Source Verified,Jan-2017,Fully Paid,debt_consolidation,FL,18.189672021774946
+17043, 60 months,24.1%,C,1 year,MORTGAGE,102015,Verified,Sep-2016,Fully Paid,car,CA,18.388600054230537
+8440, 60 months,20.7%,C,6 years,RENT,61390,Not Verified,Aug-2015,Fully Paid,credit_card,GA,17.327647090815166
+25150, 60 months,11.3%,B,6 years,RENT,86116,Verified,Nov-2016,Fully Paid,major_purchase,FL,21.157501575626103
+10644, 36 months,18.8%,A,3 years,RENT,43161,Verified,May-2016,Fully Paid,major_purchase,PA,12.513302052608111
+15518, 36 months,13.8%,A,10+ years,MORTGAGE,62152,Source Verified,Jan-2017,Fully Paid,major_purchase,NY,31.731655815254626
+19552, 36 months,10.1%,B,8 years,RENT,110171,Verified,Apr-2018,Fully Paid,small_business,PA,14.992566442816187
+7914, 60 months,21.8%,B,7 years,OWN,136379,Source Verified,Sep-2016,Charged Off,vacation,NC,9.425715025320404
+26352, 36 months,5.8%,A,< 1 year,RENT,125833,Not Verified,May-2015,Fully Paid,debt_consolidation,NC,7.896514357932354
+27301, 60 months,23.0%,E,< 1 year,OWN,50836,Source Verified,Apr-2018,Late (16-30 days),vacation,MI,5.4026874536038285
+18584, 36 months,14.2%,G,4 years,RENT,120367,Source Verified,Jun-2016,Fully Paid,small_business,NY,17.685682357005845
+17144, 60 months,17.7%,D,5 years,MORTGAGE,96543,Verified,Sep-2017,Fully Paid,small_business,NY,10.628329656362741
+19397, 36 months,18.2%,E,2 years,MORTGAGE,85648,Not Verified,Sep-2016,Fully Paid,car,FL,5.649437077617438
+13787, 36 months,22.9%,B,8 years,MORTGAGE,56331,Source Verified,Jul-2018,Fully Paid,home_improvement,OH,20.600586388685713
+19191, 36 months,17.7%,F,9 years,RENT,135992,Verified,Oct-2016,Current,debt_consolidation,NY,25.399356459522842
+5728, 60 months,17.3%,A,5 years,RENT,40763,Verified,Nov-2016,Fully Paid,major_purchase,MI,7.572531527333131
+22749, 60 months,6.3%,F,3 years,RENT,99444,Source Verified,Jun-2016,Late (31-120 days),credit_card,GA,18.827623187589786
+25876, 36 months,15.4%,G,6 years,RENT,123109,Verified,Feb-2016,Current,major_purchase,GA,27.3088603580224
+5698, 36 months,8.0%,D,7 years,RENT,49187,Source Verified,Feb-2018,Fully Paid,vacation,PA,34.57420463025275
+12186, 60 months,19.7%,G,8 years,MORTGAGE,41957,Source Verified,Oct-2018,Fully Paid,small_business,FL,25.015710339276826
+19512, 60 months,15.2%,C,10+ years,RENT,34379,Source Verified,Dec-2015,Charged Off,debt_consolidation,IL,12.345186524285618
+18923, 60 months,18.6%,B,5 years,OWN,57959,Not Verified,May-2018,Fully Paid,medical,TX,26.496609193369988
+21779, 36 months,5.8%,B,5 years,OWN,112018,Source Verified,Feb-2015,Charged Off,debt_consolidation,PA,22.9378828045949
+12400, 60 months,6.7%,C,7 years,OWN,57105,Verified,May-2018,Fully Paid,debt_consolidation,NY,11.353978657446433
+29466, 36 months,19.3%,A,4 years,RENT,30877,Not Verified,Aug-2016,Fully Paid,home_improvement,PA,30.533324775426642
+9171, 60 months,6.4%,C,2 years,MORTGAGE,78353,Verified,May-2016,Fully Paid,major_purchase,IL,17.822132816828024
+9360, 36 months,6.4%,G,2 years,RENT,113788,Not Verified,Mar-2017,Fully Paid,home_improvement,TX,33.85932964202378
+7502, 60 months,5.2%,A,5 years,MORTGAGE,126870,Not Verified,Jun-2017,Current,medical,IL,26.68703022343334
+31395, 60 months,24.1%,D,1 year,MORTGAGE,114585,Not Verified,Nov-2015,Fully Paid,medical,IL,24.336894638954664
+22101, 60 months,19.8%,F,5 years,MORTGAGE,113308,Not Verified,Nov-2018,Current,car,NC,26.850585124296856
+24166, 60 months,12.1%,F,5 years,OWN,81567,Verified,Apr-2015,Fully Paid,vacation,GA,19.342910564546646
+26330, 60 months,10.9%,F,7 years,RENT,87913,Source Verified,Feb-2015,Fully Paid,credit_card,OH,20.15679433405022
+33153, 36 months,12.0%,C,6 years,RENT,32637,Verified,Feb-2016,Fully Paid,car,NY,30.53622156334232
+10486, 60 months,20.5%,G,7 years,MORTGAGE,102778,Source Verified,Feb-2016,Fully Paid,small_business,MI,25.427856099305085
+13335, 60 months,18.2%,D,8 years,RENT,72025,Verified,Sep-2016,Fully Paid,home_improvement,FL,31.91729975574925
+26364, 60 months,8.7%,A,5 years,MORTGAGE,136917,Not Verified,Mar-2017,Fully Paid,home_improvement,PA,31.724802607228057
+32716, 36 months,8.5%,C,2 years,RENT,131187,Not Verified,Oct-2017,Current,car,NY,34.29470102132748
+28650, 60 months,7.0%,D,9 years,RENT,129508,Source Verified,Apr-2015,Fully Paid,small_business,NC,26.006439765360025
+9491, 36 months,18.2%,B,2 years,RENT,112464,Source Verified,Jun-2016,Fully Paid,debt_consolidation,GA,20.06905152985226
+28576, 60 months,20.3%,C,10+ years,RENT,58742,Verified,Apr-2016,Current,small_business,PA,9.989351006272472
+16130, 60 months,10.3%,D,< 1 year,OWN,41831,Source Verified,Jul-2015,Current,major_purchase,FL,26.161416789422518
+26972, 36 months,5.4%,A,10+ years,MORTGAGE,143768,Verified,Mar-2015,Fully Paid,car,OH,13.747331502797921
+12651, 60 months,6.6%,C,4 years,MORTGAGE,145911,Source Verified,Mar-2015,Fully Paid,vacation,NY,13.488427041119937
+25020, 36 months,24.4%,D,3 years,MORTGAGE,115092,Source Verified,Jun-2017,Current,small_business,MI,12.148633293442042
+32798, 36 months,10.9%,C,8 years,MORTGAGE,120879,Source Verified,Nov-2018,Fully Paid,debt_consolidation,GA,31.253661720543505
+6167, 60 months,20.4%,A,8 years,MORTGAGE,118370,Not Verified,Sep-2018,Fully Paid,small_business,CA,31.038933400464746
+32192, 36 months,17.5%,A,4 years,RENT,76762,Not Verified,Nov-2018,Fully Paid,home_improvement,NY,23.929113346101744
+6062, 60 months,12.6%,B,9 years,MORTGAGE,134824,Verified,Jul-2016,Current,credit_card,IL,19.189429441122076
+23540, 60 months,9.1%,F,3 years,RENT,128958,Source Verified,Aug-2016,Fully Paid,home_improvement,IL,25.163433802963972
+29244, 36 months,7.4%,B,6 years,RENT,118741,Verified,Sep-2017,Late (16-30 days),vacation,MI,23.21688350895172
+26545, 36 months,17.3%,C,5 years,MORTGAGE,48830,Source Verified,Oct-2016,Fully Paid,medical,TX,17.47202744970162
+26689, 36 months,20.5%,B,3 years,RENT,85044,Not Verified,Sep-2018,Current,credit_card,MI,16.38892602456903
+16174, 36 months,17.9%,B,9 years,RENT,103948,Not Verified,Jul-2017,Fully Paid,medical,GA,16.483829244360507
+27925, 60 months,15.6%,E,1 year,RENT,99202,Source Verified,Sep-2016,Fully Paid,small_business,IL,22.674002094681146
+32870, 60 months,5.8%,D,< 1 year,RENT,67045,Source Verified,Feb-2018,Current,major_purchase,OH,24.430080683624777
+9729, 36 months,24.4%,A,3 years,MORTGAGE,116322,Not Verified,Sep-2018,Fully Paid,vacation,OH,18.55225260546326
+14348, 60 months,21.0%,B,3 years,RENT,147257,Not Verified,Mar-2015,Fully Paid,small_business,IL,34.06074350639129
+28714, 60 months,10.9%,A,< 1 year,RENT,101051,Verified,May-2018,Fully Paid,debt_consolidation,GA,7.515371540134431
+10334, 60 months,24.6%,C,5 years,OWN,137509,Not Verified,Jun-2016,Fully Paid,small_business,NC,15.41141077861331
+13924, 60 months,17.0%,D,3 years,RENT,56627,Source Verified,Aug-2017,Fully Paid,credit_card,FL,17.57224049376323
+9330, 36 months,16.6%,A,< 1 year,MORTGAGE,45198,Verified,Sep-2018,Charged Off,home_improvement,FL,5.5076403039482935
+29394, 36 months,20.0%,B,< 1 year,RENT,99521,Source Verified,Feb-2016,Fully Paid,major_purchase,GA,15.948715630046754
+11801, 60 months,21.2%,B,< 1 year,OWN,141439,Verified,Jun-2018,Fully Paid,medical,CA,13.211297515185276
+9846, 36 months,18.1%,F,7 years,MORTGAGE,136471,Source Verified,Oct-2018,Fully Paid,small_business,FL,20.181088106824422
+11731, 36 months,7.6%,G,9 years,MORTGAGE,59475,Not Verified,May-2015,Charged Off,small_business,PA,15.092316415498077
+20368, 36 months,11.8%,A,7 years,MORTGAGE,135752,Source Verified,Jan-2015,Current,home_improvement,FL,26.785464048393838
+28625, 60 months,23.6%,D,1 year,MORTGAGE,148998,Verified,Oct-2017,Fully Paid,major_purchase,PA,20.297974862229456
+22337, 60 months,9.5%,B,10+ years,RENT,49403,Source Verified,Apr-2017,Fully Paid,car,IL,8.89286700488793
+7539, 60 months,12.4%,B,6 years,RENT,33681,Verified,Oct-2017,Late (31-120 days),medical,NC,27.501839724330416
+12056, 36 months,13.6%,D,7 years,RENT,121555,Source Verified,Nov-2016,Fully Paid,small_business,MI,7.976866882480298
+16516, 60 months,13.8%,F,7 years,MORTGAGE,148884,Not Verified,Jun-2018,Current,small_business,NC,30.17147504238072
+16493, 60 months,17.3%,F,10+ years,RENT,123122,Not Verified,Jan-2018,Current,car,FL,32.942665822586584
+6542, 36 months,23.9%,C,9 years,RENT,145260,Source Verified,Mar-2016,Current,medical,FL,14.673358705545617
+26677, 60 months,9.8%,B,10+ years,RENT,72292,Source Verified,Nov-2015,Fully Paid,credit_card,GA,32.784278997887924
+18964, 60 months,7.4%,D,6 years,RENT,133057,Source Verified,Sep-2017,Current,credit_card,MI,28.79024477367615
+22575, 36 months,8.9%,B,4 years,RENT,135386,Verified,Feb-2018,Current,vacation,FL,32.6730683301131
+11313, 36 months,22.7%,C,< 1 year,MORTGAGE,132306,Source Verified,Feb-2015,Fully Paid,vacation,TX,24.988104107625432
+32569, 36 months,17.9%,B,8 years,OWN,35629,Source Verified,Jun-2017,Fully Paid,debt_consolidation,TX,12.069321182642657
+28322, 60 months,10.7%,D,6 years,MORTGAGE,123246,Verified,Oct-2018,Fully Paid,home_improvement,CA,31.835697107329178
+24065, 60 months,21.3%,B,1 year,MORTGAGE,125864,Not Verified,Oct-2016,Fully Paid,major_purchase,IL,10.52795228512231
+30793, 60 months,22.2%,A,5 years,RENT,107814,Source Verified,Feb-2016,Fully Paid,small_business,PA,11.391816530526064
+22924, 36 months,21.9%,F,1 year,RENT,38417,Source Verified,Sep-2017,Fully Paid,medical,NC,13.131889704210911
+27556, 36 months,23.4%,A,< 1 year,RENT,148888,Not Verified,Mar-2018,Fully Paid,small_business,IL,14.127389344597539
+32812, 60 months,10.0%,C,6 years,RENT,64765,Not Verified,Dec-2018,Fully Paid,vacation,PA,20.434389263930917
+26925, 60 months,20.1%,B,1 year,MORTGAGE,104499,Verified,Mar-2017,Fully Paid,debt_consolidation,PA,26.403720813021323
+31962, 36 months,14.2%,A,1 year,RENT,144088,Source Verified,Dec-2017,Charged Off,medical,NY,32.78624523202051
+33295, 36 months,21.8%,A,10+ years,RENT,86574,Source Verified,Jun-2015,Late (31-120 days),medical,FL,7.6531276200650735
+18807, 36 months,19.6%,A,4 years,OWN,132828,Verified,Apr-2015,Fully Paid,small_business,CA,33.63108086684707
+14580, 36 months,20.5%,E,4 years,MORTGAGE,120545,Not Verified,Mar-2015,Fully Paid,home_improvement,FL,32.6396890129044
+31432, 60 months,18.1%,B,6 years,MORTGAGE,57675,Verified,May-2018,Fully Paid,debt_consolidation,CA,6.619978765431168
+22749, 36 months,8.5%,F,< 1 year,MORTGAGE,131711,Not Verified,May-2018,Charged Off,home_improvement,IL,15.80963413074688
+13691, 60 months,15.9%,C,7 years,MORTGAGE,102267,Verified,Nov-2018,Current,debt_consolidation,GA,29.394301708980095
+31256, 60 months,24.7%,B,2 years,RENT,70563,Not Verified,Mar-2015,Late (31-120 days),small_business,GA,23.347296364382032
+30086, 60 months,23.7%,C,3 years,MORTGAGE,41332,Verified,Nov-2018,Fully Paid,debt_consolidation,IL,28.372818301453112
+12494, 36 months,5.9%,C,8 years,RENT,49177,Not Verified,Aug-2018,Late (16-30 days),credit_card,MI,26.571000163696624
+9312, 36 months,8.3%,D,3 years,MORTGAGE,119254,Not Verified,Nov-2018,Fully Paid,medical,TX,19.90310339381491
+6324, 36 months,7.6%,B,9 years,MORTGAGE,98447,Not Verified,Aug-2016,Charged Off,major_purchase,PA,6.236541378550986
+30731, 36 months,19.5%,B,4 years,RENT,87104,Not Verified,Dec-2018,Fully Paid,small_business,CA,22.52804606193503
+31403, 60 months,21.4%,E,6 years,MORTGAGE,114335,Not Verified,Nov-2015,Current,car,OH,6.456999591778879
+8141, 36 months,9.3%,F,3 years,MORTGAGE,144938,Source Verified,Apr-2018,Fully Paid,major_purchase,FL,23.111801526053924
+28803, 36 months,15.1%,E,< 1 year,RENT,110730,Not Verified,Dec-2018,Charged Off,small_business,IL,29.012325874810347
+24870, 60 months,21.8%,B,8 years,MORTGAGE,34951,Source Verified,Nov-2015,Current,major_purchase,PA,22.549752461057558
+6810, 36 months,19.7%,D,3 years,RENT,136402,Not Verified,Sep-2018,Fully Paid,credit_card,CA,34.91065413685091
+11588, 60 months,15.8%,C,8 years,OWN,58333,Source Verified,Dec-2015,Fully Paid,major_purchase,NC,18.675995005412993
+24307, 60 months,16.8%,C,5 years,OWN,51673,Source Verified,Oct-2016,Current,debt_consolidation,MI,27.464823908119623
+10301, 60 months,15.2%,B,< 1 year,OWN,144421,Verified,Oct-2015,Fully Paid,vacation,FL,25.016398752257224
+31790, 60 months,11.0%,C,2 years,MORTGAGE,70870,Not Verified,Jul-2018,Fully Paid,major_purchase,GA,34.742950746742636
+25570, 60 months,16.3%,A,10+ years,MORTGAGE,101101,Verified,Oct-2017,Fully Paid,small_business,IL,26.396570152313153
+30289, 60 months,18.8%,B,1 year,MORTGAGE,52821,Verified,Aug-2017,Fully Paid,car,GA,9.920921943781682
+27361, 60 months,22.5%,E,8 years,RENT,55494,Not Verified,Jan-2015,Fully Paid,car,CA,33.66553119251722
+33178, 60 months,17.7%,B,< 1 year,MORTGAGE,129477,Verified,Oct-2018,Fully Paid,vacation,GA,25.03331679337284
+33710, 36 months,20.2%,A,8 years,RENT,104160,Not Verified,May-2016,Fully Paid,home_improvement,FL,6.780146924191697
+20485, 36 months,8.2%,A,8 years,MORTGAGE,142698,Verified,Oct-2016,Fully Paid,vacation,TX,24.727049173538372
+16714, 36 months,14.2%,F,7 years,RENT,141560,Not Verified,Jun-2015,Current,medical,PA,31.493582200243253
+25652, 36 months,5.2%,C,7 years,RENT,30835,Not Verified,Oct-2015,Late (16-30 days),major_purchase,TX,22.31125585970075
+9748, 60 months,9.9%,B,10+ years,MORTGAGE,48646,Not Verified,Jan-2016,Charged Off,car,IL,15.620589140960336
+26233, 36 months,19.5%,E,< 1 year,RENT,107360,Source Verified,Apr-2017,Fully Paid,vacation,TX,29.62728902211848
+14435, 60 months,24.8%,E,10+ years,RENT,67335,Verified,Jan-2015,Late (31-120 days),major_purchase,NY,28.475360246174883
+8709, 36 months,7.0%,B,7 years,RENT,99351,Source Verified,Aug-2016,Fully Paid,medical,PA,21.325464626939024
+30657, 36 months,13.0%,D,9 years,RENT,144934,Verified,Nov-2017,Fully Paid,car,CA,9.63085309687701
+28003, 36 months,21.0%,D,2 years,RENT,32429,Verified,Feb-2015,Late (31-120 days),medical,PA,12.52959456569544
+30031, 60 months,9.1%,D,10+ years,RENT,71950,Verified,Nov-2018,Current,major_purchase,NY,27.15451916558317
+18116, 36 months,16.1%,A,6 years,OWN,90654,Source Verified,Apr-2017,Current,small_business,OH,29.182464961847824
+30470, 60 months,19.7%,E,10+ years,RENT,137422,Verified,Dec-2018,Current,major_purchase,TX,13.377958341229693
+14576, 60 months,17.3%,C,< 1 year,MORTGAGE,139934,Source Verified,Nov-2015,Fully Paid,vacation,PA,16.0395523156036
+15150, 36 months,8.8%,B,< 1 year,RENT,149975,Not Verified,Jan-2017,Fully Paid,medical,GA,7.328956557493854
+24456, 36 months,12.1%,B,9 years,MORTGAGE,98143,Verified,Nov-2015,Charged Off,small_business,CA,26.403858450994992
+11530, 36 months,20.7%,A,4 years,MORTGAGE,121186,Verified,Mar-2016,Fully Paid,small_business,NC,5.107326338000941
+15188, 60 months,16.1%,A,4 years,RENT,134234,Not Verified,Jan-2016,Fully Paid,home_improvement,IL,6.396245636572042
+19683, 36 months,5.1%,D,7 years,MORTGAGE,127889,Not Verified,Nov-2018,Current,car,IL,5.130322033522697
+33861, 60 months,20.2%,A,6 years,MORTGAGE,132326,Verified,Feb-2017,Current,debt_consolidation,IL,24.3595875001285
+5504, 60 months,5.7%,B,7 years,MORTGAGE,107527,Not Verified,Dec-2016,Fully Paid,small_business,PA,17.521613831016396
+6214, 36 months,19.9%,C,5 years,OWN,116704,Source Verified,Jul-2016,Current,medical,TX,13.926402840299907
+6531, 36 months,9.0%,A,5 years,RENT,61099,Source Verified,Jan-2015,Current,car,PA,32.381030310713314
+33016, 60 months,24.2%,G,1 year,MORTGAGE,69385,Verified,Jul-2017,Charged Off,credit_card,FL,10.7840838402982
+28960, 60 months,12.4%,B,5 years,MORTGAGE,65919,Source Verified,Apr-2016,Fully Paid,major_purchase,GA,16.68104031144202
+5823, 60 months,11.5%,B,4 years,MORTGAGE,126952,Source Verified,Jun-2016,Fully Paid,vacation,NC,33.209354027832546
+22312, 36 months,8.0%,B,2 years,RENT,90782,Verified,Aug-2015,Fully Paid,medical,NC,17.813196885111275
+10029, 60 months,11.1%,B,5 years,MORTGAGE,101116,Not Verified,Jun-2018,Fully Paid,credit_card,GA,21.640810569411734
+18428, 36 months,22.5%,A,7 years,MORTGAGE,102590,Verified,Nov-2015,Fully Paid,medical,NY,7.410105997084627
+21517, 60 months,24.9%,D,8 years,RENT,119626,Source Verified,Sep-2018,Fully Paid,major_purchase,MI,28.70499160680387
+7105, 60 months,12.4%,F,< 1 year,RENT,70387,Verified,Jun-2018,Fully Paid,home_improvement,FL,17.682763312647147
+8627, 36 months,14.0%,B,2 years,RENT,45823,Verified,Sep-2017,Late (31-120 days),medical,CA,29.015453737954502
+17972, 60 months,19.4%,D,2 years,MORTGAGE,76015,Source Verified,Feb-2016,Fully Paid,small_business,NC,12.613929276679764
+27700, 36 months,22.7%,D,10+ years,MORTGAGE,132877,Source Verified,Apr-2015,Current,debt_consolidation,IL,17.6743625168423
+6852, 36 months,16.9%,E,7 years,MORTGAGE,45339,Verified,Aug-2015,Charged Off,small_business,PA,28.59646809095031
+9910, 60 months,12.8%,B,< 1 year,OWN,33491,Source Verified,Sep-2016,Fully Paid,major_purchase,NY,34.21633301130919
+34844, 36 months,13.3%,B,4 years,OWN,30706,Source Verified,Sep-2017,Late (31-120 days),medical,MI,6.788765731618066
+25559, 36 months,18.9%,B,2 years,RENT,127493,Source Verified,May-2017,Fully Paid,debt_consolidation,GA,29.37368532256713
+32509, 60 months,5.1%,D,1 year,OWN,45728,Source Verified,Sep-2018,Fully Paid,small_business,OH,14.020672028813307
+32860, 36 months,17.4%,E,7 years,MORTGAGE,36997,Source Verified,Jun-2018,Current,debt_consolidation,CA,21.522298426732164
+33874, 36 months,12.1%,A,2 years,MORTGAGE,133537,Source Verified,Apr-2015,Fully Paid,vacation,MI,13.702767948522437
+16003, 36 months,20.9%,B,6 years,MORTGAGE,90408,Not Verified,Jan-2016,Charged Off,major_purchase,IL,23.403364177039705
+26732, 60 months,6.9%,F,10+ years,MORTGAGE,88097,Verified,Mar-2016,Fully Paid,home_improvement,MI,15.614084919319266
+30826, 36 months,16.8%,E,< 1 year,OWN,68523,Source Verified,Jun-2016,Current,home_improvement,NC,15.008446729330444
+18843, 60 months,14.6%,G,5 years,OWN,55163,Verified,Apr-2016,Fully Paid,medical,PA,6.138149388078066
+16704, 60 months,17.8%,D,2 years,MORTGAGE,47718,Not Verified,Sep-2016,Charged Off,small_business,GA,9.408812177114346
+20761, 36 months,6.3%,B,7 years,MORTGAGE,117508,Source Verified,Mar-2016,Fully Paid,credit_card,MI,32.512345965964364
+11190, 36 months,16.6%,C,5 years,RENT,113767,Verified,Jan-2017,Charged Off,major_purchase,CA,34.94832286619739
+22640, 36 months,16.2%,D,1 year,RENT,69619,Source Verified,Jan-2017,Current,small_business,MI,28.41561727608819
+24760, 60 months,16.2%,A,5 years,RENT,42126,Source Verified,Sep-2017,Fully Paid,small_business,OH,13.604378743204604
+10645, 36 months,17.1%,C,6 years,MORTGAGE,119131,Source Verified,Nov-2015,Charged Off,home_improvement,NY,17.073354153307776
+34838, 36 months,18.5%,D,4 years,RENT,94926,Source Verified,May-2017,Fully Paid,medical,NC,27.18510364718248
+24870, 36 months,21.1%,A,2 years,RENT,70633,Source Verified,Mar-2015,Current,debt_consolidation,PA,34.055406706495944
+24968, 36 months,10.4%,D,3 years,RENT,107654,Source Verified,Aug-2015,Fully Paid,major_purchase,IL,18.664135121881028
+14588, 36 months,21.5%,C,3 years,RENT,33317,Source Verified,Mar-2017,Current,vacation,GA,29.88567245865124
+16829, 60 months,15.0%,F,5 years,MORTGAGE,74980,Not Verified,May-2017,Current,debt_consolidation,GA,34.252067677961506
+13053, 60 months,6.5%,A,9 years,RENT,74115,Not Verified,Dec-2016,Fully Paid,car,NY,31.20419513168013
+8330, 36 months,6.2%,B,< 1 year,MORTGAGE,91646,Source Verified,Apr-2015,Fully Paid,car,TX,11.814492403139809
+24087, 36 months,11.7%,C,10+ years,MORTGAGE,73158,Source Verified,Mar-2015,Fully Paid,major_purchase,TX,5.240955916268688
+13662, 36 months,20.7%,B,3 years,MORTGAGE,85963,Not Verified,Oct-2015,Current,medical,IL,19.762451161652454
+29504, 36 months,19.2%,D,9 years,RENT,77631,Not Verified,Jul-2016,Fully Paid,credit_card,MI,20.940824950858005
+12114, 60 months,20.8%,D,3 years,MORTGAGE,79316,Not Verified,Feb-2017,Fully Paid,car,OH,11.037510936535089
+18323, 36 months,15.3%,A,9 years,OWN,135364,Source Verified,Jul-2017,Current,home_improvement,GA,13.540231758404529
+6353, 60 months,13.8%,C,< 1 year,MORTGAGE,89342,Verified,May-2018,Fully Paid,credit_card,MI,27.954594825456407
+15975, 60 months,7.9%,C,8 years,MORTGAGE,45504,Verified,Sep-2015,Charged Off,small_business,GA,19.11041776139401
+16023, 36 months,11.6%,B,3 years,RENT,98593,Verified,Dec-2017,Fully Paid,car,GA,14.5206225080077
+26447, 60 months,13.7%,F,6 years,RENT,56660,Verified,Mar-2018,Fully Paid,home_improvement,MI,23.678780820857583
+29933, 60 months,6.8%,E,2 years,RENT,67196,Source Verified,Apr-2015,Current,small_business,NY,24.58279267928376
+32595, 60 months,9.4%,D,9 years,OWN,95938,Verified,Jun-2018,Fully Paid,credit_card,TX,28.081873305224065
+28959, 60 months,17.0%,D,2 years,RENT,38605,Not Verified,Jan-2016,Fully Paid,major_purchase,FL,9.701278872887574
+5667, 36 months,19.7%,C,7 years,RENT,87388,Not Verified,Mar-2015,Current,small_business,CA,27.24551756980971
+25852, 36 months,25.0%,F,7 years,OWN,111297,Verified,Aug-2017,Fully Paid,debt_consolidation,NY,22.982851763312556
+34703, 60 months,23.7%,D,10+ years,RENT,85501,Not Verified,Nov-2018,Late (16-30 days),major_purchase,NC,6.727155959083913
+14337, 36 months,17.9%,D,< 1 year,RENT,83309,Source Verified,Apr-2015,Late (16-30 days),major_purchase,OH,28.323368847602335
+18659, 36 months,13.4%,E,9 years,OWN,57043,Verified,Aug-2018,Fully Paid,credit_card,OH,16.49240843999555
+28203, 36 months,17.7%,B,1 year,RENT,63635,Verified,Mar-2018,Fully Paid,credit_card,CA,14.911428029889127
+33761, 36 months,20.7%,E,7 years,RENT,109315,Source Verified,Sep-2016,Current,home_improvement,OH,18.442254547449032
+8719, 36 months,7.4%,A,< 1 year,OWN,110691,Not Verified,Apr-2018,Fully Paid,home_improvement,MI,15.385252319183872
+24129, 60 months,13.2%,B,7 years,OWN,136514,Source Verified,Sep-2015,Fully Paid,debt_consolidation,OH,15.148567766297273
+12483, 36 months,21.8%,B,7 years,MORTGAGE,63132,Source Verified,Dec-2017,Current,major_purchase,FL,29.242330031018763
+5539, 36 months,12.7%,G,1 year,OWN,119387,Not Verified,Dec-2016,Fully Paid,vacation,OH,8.735157630970768
+32355, 36 months,16.4%,E,3 years,OWN,45366,Source Verified,Feb-2016,Current,medical,GA,34.118002035723755
+9964, 36 months,16.8%,D,5 years,OWN,123944,Not Verified,Dec-2018,Fully Paid,debt_consolidation,NY,21.647949331230297
+33712, 60 months,8.7%,D,10+ years,MORTGAGE,102107,Not Verified,May-2017,Fully Paid,debt_consolidation,MI,10.487719952639388
+9835, 60 months,12.2%,C,8 years,MORTGAGE,92580,Source Verified,Apr-2015,Fully Paid,medical,TX,8.936464487950595
+25159, 60 months,11.7%,F,7 years,MORTGAGE,145267,Not Verified,Dec-2015,Late (16-30 days),medical,OH,22.74528596404948
+11042, 60 months,5.5%,C,7 years,MORTGAGE,87889,Source Verified,Sep-2017,Charged Off,medical,IL,23.98998331540784
+19837, 36 months,5.5%,B,6 years,RENT,109553,Not Verified,Sep-2016,Current,credit_card,IL,6.590773130894323
+28486, 60 months,21.6%,A,8 years,RENT,69236,Verified,Feb-2016,Fully Paid,debt_consolidation,IL,12.290057423863574
+12312, 36 months,10.5%,D,1 year,RENT,34150,Not Verified,Sep-2017,Fully Paid,debt_consolidation,OH,28.86385763664402
+10320, 36 months,15.4%,D,2 years,MORTGAGE,141369,Not Verified,Apr-2018,Fully Paid,small_business,NC,6.488738832305765
+18216, 36 months,11.0%,B,9 years,MORTGAGE,49423,Source Verified,Jan-2016,Fully Paid,medical,GA,30.652659917181083
+27516, 36 months,23.8%,A,7 years,MORTGAGE,34137,Not Verified,Jan-2015,Fully Paid,medical,PA,24.744874295790005
+29275, 36 months,10.2%,E,5 years,RENT,59992,Verified,Sep-2017,Charged Off,home_improvement,OH,18.032697780896143
+32084, 60 months,13.6%,A,9 years,MORTGAGE,140540,Verified,Aug-2015,Fully Paid,home_improvement,NC,15.392985469127476
+7779, 60 months,22.5%,D,8 years,RENT,124438,Not Verified,May-2015,Late (31-120 days),major_purchase,PA,5.5774689154668184
+22308, 60 months,21.8%,G,9 years,RENT,145140,Not Verified,Mar-2017,Fully Paid,home_improvement,CA,29.75644837255529
+32532, 60 months,8.7%,B,3 years,RENT,74921,Verified,Jul-2015,Late (16-30 days),car,FL,9.281655619056142
+6581, 36 months,21.1%,B,7 years,OWN,109369,Source Verified,Jun-2016,Fully Paid,major_purchase,GA,14.286259755862643
+29098, 60 months,14.2%,D,9 years,OWN,96917,Verified,Feb-2018,Fully Paid,vacation,OH,22.073209410884115
+24708, 36 months,14.7%,E,2 years,MORTGAGE,103690,Verified,Jan-2016,Fully Paid,medical,NY,12.379778002137627
+17677, 60 months,7.7%,C,2 years,RENT,64235,Not Verified,Jan-2016,Fully Paid,small_business,MI,19.91421391256604
+10713, 36 months,6.6%,F,7 years,OWN,108975,Not Verified,Oct-2015,Fully Paid,home_improvement,NY,29.28028486216107
+28410, 36 months,19.6%,A,4 years,OWN,49122,Verified,Oct-2017,Fully Paid,small_business,NY,19.116138043708247
+21639, 60 months,14.9%,C,2 years,RENT,53956,Source Verified,Dec-2018,Fully Paid,home_improvement,CA,33.46932032358788
+9804, 36 months,13.7%,D,9 years,MORTGAGE,93879,Verified,Aug-2017,Current,home_improvement,MI,30.42501861129025
+23222, 36 months,19.6%,E,10+ years,MORTGAGE,88560,Verified,Jul-2017,Charged Off,small_business,CA,14.991177060901826
+15136, 60 months,20.3%,A,< 1 year,MORTGAGE,112800,Source Verified,Mar-2018,Current,debt_consolidation,PA,16.998863737518132
+5009, 36 months,8.2%,E,2 years,MORTGAGE,140310,Verified,Feb-2016,Fully Paid,debt_consolidation,CA,17.699801810675815
+24255, 60 months,17.2%,C,8 years,MORTGAGE,98685,Verified,Nov-2016,Charged Off,debt_consolidation,IL,23.785383587735442
+30373, 60 months,7.7%,B,4 years,RENT,54660,Not Verified,Mar-2017,Fully Paid,car,FL,13.603871875656194
+28793, 60 months,20.0%,A,9 years,MORTGAGE,136196,Source Verified,Jan-2018,Fully Paid,debt_consolidation,IL,34.07747416467526
+28802, 36 months,18.1%,E,1 year,RENT,116064,Not Verified,Dec-2017,Fully Paid,home_improvement,OH,23.26052661810503
+34548, 36 months,24.1%,A,6 years,RENT,144440,Not Verified,Apr-2016,Fully Paid,medical,PA,16.982049762234006
+10124, 36 months,6.4%,B,1 year,RENT,31168,Source Verified,May-2016,Fully Paid,credit_card,NC,24.35029446474702
+6015, 60 months,6.1%,B,3 years,MORTGAGE,75124,Source Verified,Jan-2018,Fully Paid,small_business,PA,16.862150315891228
+31400, 36 months,10.6%,E,6 years,MORTGAGE,65897,Verified,Jan-2015,Fully Paid,medical,NC,29.533870429382567
+34045, 60 months,10.2%,D,3 years,RENT,45032,Not Verified,Oct-2015,Charged Off,credit_card,FL,22.035228816551637
+32712, 60 months,9.9%,D,6 years,MORTGAGE,82797,Source Verified,Jul-2017,Charged Off,medical,CA,6.25911510218201
+7193, 36 months,23.1%,B,6 years,MORTGAGE,65294,Not Verified,Apr-2017,Late (16-30 days),car,CA,10.302706022703823
+13415, 60 months,10.0%,C,< 1 year,RENT,73827,Not Verified,Dec-2016,Current,credit_card,MI,30.94981919088604
+18550, 36 months,10.4%,C,5 years,RENT,33516,Source Verified,Dec-2017,Fully Paid,vacation,OH,21.886994790703696
+19512, 36 months,20.2%,E,8 years,MORTGAGE,49751,Verified,Aug-2015,Current,major_purchase,NY,33.51030429541715
+34524, 36 months,14.0%,F,1 year,RENT,60373,Not Verified,Aug-2017,Current,debt_consolidation,TX,7.1726693858205435
+28833, 36 months,20.5%,A,2 years,MORTGAGE,60270,Source Verified,Nov-2016,Fully Paid,vacation,PA,13.857818902579218
+9158, 36 months,6.3%,D,9 years,RENT,40386,Verified,Oct-2015,Fully Paid,car,PA,10.806301197187178
+34912, 60 months,14.8%,A,4 years,OWN,131859,Not Verified,Nov-2018,Late (16-30 days),medical,OH,21.615208766862086
+25309, 60 months,5.7%,C,8 years,MORTGAGE,94817,Source Verified,Sep-2018,Fully Paid,home_improvement,IL,16.48378493239728
+11970, 60 months,6.3%,B,3 years,MORTGAGE,95184,Not Verified,Dec-2015,Late (31-120 days),debt_consolidation,GA,9.718206022291795
+11938, 36 months,23.1%,B,< 1 year,MORTGAGE,144316,Source Verified,Jan-2017,Fully Paid,vacation,OH,24.282557418786407
+26168, 36 months,7.8%,B,3 years,MORTGAGE,109693,Source Verified,Dec-2016,Fully Paid,debt_consolidation,TX,21.088950973915594
+18772, 36 months,15.6%,C,5 years,MORTGAGE,67879,Not Verified,May-2016,Fully Paid,credit_card,CA,13.24208753888903
+25384, 60 months,13.2%,B,4 years,MORTGAGE,135056,Not Verified,Feb-2017,Fully Paid,major_purchase,NC,19.393140733471334
+23017, 36 months,11.9%,D,< 1 year,RENT,79597,Source Verified,Jun-2017,Current,debt_consolidation,IL,27.372149451235686
+15344, 60 months,23.0%,B,3 years,OWN,69132,Verified,Jan-2016,Late (16-30 days),medical,IL,11.158150236519756
+12266, 60 months,5.4%,A,5 years,RENT,33626,Not Verified,Aug-2018,Fully Paid,medical,MI,13.787172401051873
+13702, 36 months,18.3%,D,9 years,MORTGAGE,115936,Source Verified,May-2016,Fully Paid,small_business,FL,15.383329612823454
+5384, 36 months,24.3%,B,9 years,RENT,132179,Source Verified,Dec-2017,Current,small_business,TX,27.401793116030948
+5404, 60 months,16.2%,B,3 years,OWN,133801,Verified,Oct-2016,Charged Off,debt_consolidation,IL,30.407677986527208
+13175, 36 months,23.7%,D,8 years,RENT,111515,Verified,Apr-2017,Fully Paid,credit_card,TX,16.291654893248328
+20158, 60 months,6.0%,B,4 years,MORTGAGE,107065,Verified,Jul-2016,Fully Paid,credit_card,OH,13.898625855017547
+34189, 36 months,13.4%,A,7 years,MORTGAGE,85390,Not Verified,Sep-2016,Current,home_improvement,NC,31.683402750550314
+17763, 36 months,10.2%,B,8 years,RENT,46645,Source Verified,Oct-2018,Current,car,NC,34.98094796578036
+23384, 60 months,19.6%,F,9 years,MORTGAGE,121960,Source Verified,Jul-2018,Fully Paid,car,PA,25.11060918985397
+32332, 36 months,24.6%,C,4 years,RENT,84144,Source Verified,May-2017,Fully Paid,vacation,CA,34.69941844967542
+14860, 60 months,10.1%,D,5 years,OWN,43382,Verified,Mar-2016,Late (16-30 days),car,PA,24.7989883340573
+10989, 36 months,18.1%,C,< 1 year,MORTGAGE,34025,Source Verified,Nov-2017,Charged Off,major_purchase,IL,27.003808160234748
+20106, 60 months,9.0%,A,10+ years,RENT,73226,Not Verified,May-2018,Fully Paid,credit_card,FL,16.65968004630541
+22844, 60 months,16.3%,B,6 years,MORTGAGE,109380,Verified,May-2018,Fully Paid,home_improvement,PA,17.989026409971604
+28574, 36 months,14.3%,D,3 years,RENT,148910,Verified,Dec-2018,Current,small_business,PA,9.324069919681854
+28524, 60 months,24.4%,A,10+ years,RENT,99711,Verified,Sep-2017,Fully Paid,medical,PA,29.682500442953696
+8636, 36 months,17.2%,B,1 year,MORTGAGE,126055,Verified,Oct-2015,Fully Paid,car,TX,32.931770926616004
